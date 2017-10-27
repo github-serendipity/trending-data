@@ -2,9 +2,6 @@ set -e
 
 git config --global user.email "ghlndsl@126.com"
 git config --global user.name "gaohailang ci"
-remote=$(git config remote.origin.url)
-git init
-git remote add origin "$remote"
 git checkout -b master
 git add .
 git commit -m "Update Data"
