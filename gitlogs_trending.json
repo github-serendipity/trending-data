@@ -1,0 +1,6392 @@
+[
+  {
+    "name": "2017-10-26",
+    "key": "trending_first",
+    "list": [
+      {
+        "name": "framework 567",
+        "key": "graphcool___framework",
+        "description":
+          "⚡️ Framework to develop & deploy serverless GraphQL backends"
+      },
+      {
+        "name": "feedmereadmes 302",
+        "key": "LappleApple___feedmereadmes",
+        "description":
+          "Free README editing+feedback to make your open-source projects grow. See the README maturity model to help you keep going."
+      },
+      {
+        "name": "netstack 262",
+        "key": "google___netstack",
+        "description": "IPv4 and IPv6 userland network stack"
+      },
+      {
+        "name": "dumpulse 213",
+        "key": "kragen___dumpulse",
+        "description":
+          "an embeddable dumb heartbeat daemon in 260 bytes of RAM and ≈350 bytes of code"
+      },
+      {
+        "name": "babybuddy 206",
+        "key": "cdubz___babybuddy",
+        "description":
+          "A buddy for :baby: Helps caregivers track sleep, feedings, diaper changes, and tummy time to learn about and predict baby's needs without (as much) guess work."
+      },
+      {
+        "name": "HEAD 377",
+        "key": "joshbuchea___HEAD",
+        "description":
+          "A list of everything that could go in the head of your document"
+      },
+      {
+        "name": "uncaptcha 439",
+        "key": "ecthros___uncaptcha",
+        "description": "Defeating Google's audio reCaptcha with 85% accuracy. "
+      },
+      {
+        "name": "h2 120",
+        "key": "carllerche___h2",
+        "description": "HTTP 2.0 client & server implementation for Rust."
+      },
+      {
+        "name": "TileDB 116",
+        "key": "TileDB-Inc___TileDB",
+        "description": "TileDB official website"
+      },
+      {
+        "name": "brigade 191",
+        "key": "Azure___brigade",
+        "description": "Event-based Scripting for Kubernetes."
+      },
+      {
+        "name": "wiki 98",
+        "key": "Requarks___wiki",
+        "description":
+          "Wiki.js | A modern, lightweight and powerful wiki app built on NodeJS, Git and Markdown"
+      },
+      {
+        "name": "create-component-app 113",
+        "key": "CVarisco___create-component-app",
+        "description":
+          "Tool to generate different types of React components from the terminal. 💻"
+      },
+      {
+        "name": "SVGAPlayer-Android 79",
+        "key": "yyued___SVGAPlayer-Android",
+        "description":
+          "Render After Effects / Animate CC (Flash) animations natively on Android and iOS, Web.  使用 SVGAPlayer 在 Android、iOS、Web中播放 After Effects / Animate CC (Flash) 动画。"
+      },
+      {
+        "name": "sonar 93",
+        "key": "sonarwhal___sonar",
+        "description": "A linting tool for the web"
+      },
+      {
+        "name": "mlsh 60",
+        "key": "openai___mlsh",
+        "description": null
+      },
+      {
+        "name": "drawille 58",
+        "key": "asciimoo___drawille",
+        "description": ""
+      },
+      {
+        "name": "strapi 57",
+        "key": "strapi___strapi",
+        "description": ""
+      },
+      {
+        "name": "computer-science 93",
+        "key": "ossu___computer-science",
+        "description": ""
+      },
+      {
+        "name": "awesome-web-storage 53",
+        "key": "softvar___awesome-web-storage",
+        "description": ""
+      },
+      {
+        "name": "ran 51",
+        "key": "Sly777___ran",
+        "description": ""
+      },
+      {
+        "name": "vue-element-admin 81",
+        "key": "PanJiaChen___vue-element-admin",
+        "description": ""
+      },
+      {
+        "name": "goproxy 48",
+        "key": "snail007___goproxy",
+        "description": ""
+      },
+      {
+        "name": "Front-End-Checklist 74",
+        "key": "JohnsenZhou___Front-End-Checklist",
+        "description": ""
+      },
+      {
+        "name": "OpenVPN-install 44",
+        "key": "Angristan___OpenVPN-install",
+        "description": ""
+      },
+      {
+        "name": "wiretap 39",
+        "key": "Raathigesh___wiretap",
+        "description": ""
+      },
+      {
+        "name": "ci 38",
+        "key": "antonioribeiro___ci",
+        "description": ""
+      },
+      {
+        "name": "leela-zero 180",
+        "key": "gcp___leela-zero",
+        "description": ""
+      },
+      {
+        "name": "govips 35",
+        "key": "davidbyttow___govips",
+        "description": ""
+      },
+      {
+        "name": "jaeger 34",
+        "key": "jaegertracing___jaeger",
+        "description": ""
+      },
+      {
+        "name": "Distributed-TensorFlow-Guide 34",
+        "key": "tmulc18___Distributed-TensorFlow-Guide",
+        "description": ""
+      },
+      {
+        "name": "etcher 84",
+        "key": "resin-io___etcher",
+        "description": ""
+      },
+      {
+        "name": "macos-lock 32",
+        "key": "sindresorhus___macos-lock",
+        "description": ""
+      },
+      {
+        "name": "imgproxy 32",
+        "key": "DarthSim___imgproxy",
+        "description": ""
+      },
+      {
+        "name": "sqlitebrowser 31",
+        "key": "sqlitebrowser___sqlitebrowser",
+        "description": ""
+      },
+      {
+        "name": "awesome-blockchains 30",
+        "key": "openblockchains___awesome-blockchains",
+        "description": ""
+      },
+      {
+        "name": "face_recognition 30",
+        "key": "ageitgey___face_recognition",
+        "description": ""
+      },
+      {
+        "name": "IconCountView 29",
+        "key": "binqiangsun___IconCountView",
+        "description": ""
+      },
+      {
+        "name": "machine-learning-for-software-engineers 29",
+        "key": "ZuzooVn___machine-learning-for-software-engineers",
+        "description": ""
+      },
+      {
+        "name": "spookyc 29",
+        "key": "ftripier___spookyc",
+        "description": ""
+      },
+      {
+        "name": "v2ex-cli 45",
+        "key": "WittBulter___v2ex-cli",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "2017-10-25",
+    "key": "2017-10-25",
+    "list": [
+      {
+        "name": "Command-line-text-processing 1460",
+        "key": "learnbyexample___Command-line-text-processing",
+        "description":
+          "From finding text to search and replace, from sorting to beautifying text and more"
+      },
+      {
+        "name": "mx-maskrcnn 391",
+        "key": "TuSimple___mx-maskrcnn",
+        "description": "A MXNet implementation of Mask R-CNN"
+      },
+      {
+        "name": "Blog 218",
+        "key": "mqyqingfeng___Blog",
+        "description":
+          "冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。"
+      },
+      {
+        "name": "Android_100_TOP-Projects 174",
+        "key": "ShaunSheep___Android_100_TOP-Projects",
+        "description":
+          "Android 100 TOP Projects all over the github (Android百大框架排行榜)"
+      },
+      {
+        "name": "uncaptcha 168",
+        "key": "ecthros___uncaptcha",
+        "description": "Defeating Google's audio reCaptcha with 85% accuracy. "
+      },
+      {
+        "name": "Yopp 157",
+        "key": "josephernest___Yopp",
+        "description":
+          "A very fast way to transfer a file from phone to computer and vice versa."
+      },
+      {
+        "name": "ZFSin 138",
+        "key": "lundman___ZFSin",
+        "description": "OpenZFS ports"
+      },
+      {
+        "name": "lemon 126",
+        "key": "lemon-lang___lemon",
+        "description":
+          "Lemon is open source, embeddable, lightweight programming language http://www.lemon-lang.org"
+      },
+      {
+        "name": "leela-zero 117",
+        "key": "gcp___leela-zero",
+        "description":
+          "Go engine with no human-provided knowledge, modeled after the AlphaGo Zero paper."
+      },
+      {
+        "name": "HEAD 122",
+        "key": "joshbuchea___HEAD",
+        "description":
+          "A list of everything that could go in the head of your document"
+      },
+      {
+        "name": "MechanicalSoup 94",
+        "key": "MechanicalSoup___MechanicalSoup",
+        "description":
+          "A Python library for automating interaction with websites."
+      },
+      {
+        "name": "lectures 83",
+        "key": "oxford-cs-deepnlp-2017___lectures",
+        "description": " Oxford Deep NLP 2017 course"
+      },
+      {
+        "name": "2048-ai 83",
+        "key": "xwjdsh___2048-ai",
+        "description": "AI for the 2048 game."
+      },
+      {
+        "name": "fuck-login 77",
+        "key": "xchaoinfo___fuck-login",
+        "description": "模拟登录一些知名的网站，为了方便爬取需要登录的网站"
+      },
+      {
+        "name": "LongShadow 110",
+        "key": "florent37___LongShadow",
+        "description": "Add a long shadow on any Android View"
+      },
+      {
+        "name": "hacker-scripts 80",
+        "key": "NARKOZ___hacker-scripts",
+        "description": ""
+      },
+      {
+        "name": "awesome-crypto-papers 63",
+        "key": "pFarb___awesome-crypto-papers",
+        "description": ""
+      },
+      {
+        "name": "kail 59",
+        "key": "boz___kail",
+        "description": ""
+      },
+      {
+        "name": "rm-protection 58",
+        "key": "alanzchen___rm-protection",
+        "description": ""
+      },
+      {
+        "name": "Runtime 57",
+        "key": "NSExceptional___Runtime",
+        "description": ""
+      },
+      {
+        "name": "reflow 47",
+        "key": "grailbio___reflow",
+        "description": ""
+      },
+      {
+        "name": "wekan 46",
+        "key": "wekan___wekan",
+        "description": ""
+      },
+      {
+        "name": "lyadmin 45",
+        "key": "ijry___lyadmin",
+        "description": ""
+      },
+      {
+        "name": "captainduckduck 43",
+        "key": "githubsaturn___captainduckduck",
+        "description": ""
+      },
+      {
+        "name": "faktory 479",
+        "key": "contribsys___faktory",
+        "description": ""
+      },
+      {
+        "name": "sketch-to-react-native 82",
+        "key": "nanohop___sketch-to-react-native",
+        "description": ""
+      },
+      {
+        "name": "trickle 40",
+        "key": "sjmulder___trickle",
+        "description": ""
+      },
+      {
+        "name": "scipy 39",
+        "key": "scipy___scipy",
+        "description": ""
+      },
+      {
+        "name": "react-snap 39",
+        "key": "stereobooster___react-snap",
+        "description": ""
+      },
+      {
+        "name": "StackGAN-v2 100",
+        "key": "hanzhanggit___StackGAN-v2",
+        "description": ""
+      },
+      {
+        "name": "Light-Modal 34",
+        "key": "hunzaboy___Light-Modal",
+        "description": ""
+      },
+      {
+        "name": "nest 49",
+        "key": "nestjs___nest",
+        "description": ""
+      },
+      {
+        "name": "dramatiq 32",
+        "key": "Bogdanp___dramatiq",
+        "description": ""
+      },
+      {
+        "name": "cyborg-writer 31",
+        "key": "tensorfire___cyborg-writer",
+        "description": ""
+      },
+      {
+        "name": "instagib.io 31",
+        "key": "schibir___instagib.io",
+        "description": ""
+      },
+      {
+        "name": "resume.github.com 57",
+        "key": "resume___resume.github.com",
+        "description": ""
+      },
+      {
+        "name": "Smile 30",
+        "key": "yhaolpz___Smile",
+        "description": ""
+      },
+      {
+        "name": "cineform-sdk 29",
+        "key": "gopro___cineform-sdk",
+        "description": ""
+      },
+      {
+        "name": "uplink 29",
+        "key": "adjoint-io___uplink",
+        "description": ""
+      },
+      {
+        "name": "etaoin 28",
+        "key": "igrishaev___etaoin",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "2017-10-24",
+    "key": "2017-10-24",
+    "list": [
+      {
+        "name": "pingfs 419",
+        "key": "yarrick___pingfs",
+        "description": "Stores your data in ICMP ping packets"
+      },
+      {
+        "name": "faktory 343",
+        "key": "contribsys___faktory",
+        "description": "\"Takin' care of business, workin' overtime\""
+      },
+      {
+        "name": "linuxatomupdater 277",
+        "key": "jordanhillis___linuxatomupdater",
+        "description":
+          "Allows the Atom Editor on Linux to be updated automatically either on a scheduled basis or with a simple command."
+      },
+      {
+        "name": "bulma 230",
+        "key": "jgthms___bulma",
+        "description": "Modern CSS framework based on Flexbox"
+      },
+      {
+        "name": "HanLP 237",
+        "key": "hankcs___HanLP",
+        "description": "自然语言处理 中文分词 词性标注 命名实体识别 依存句法分析 关键词提取 自动摘要 短语提取 拼音 简繁转换"
+      },
+      {
+        "name": "NATBypass 90",
+        "key": "cw1997___NATBypass",
+        "description": "一款lcx在golang下的实现"
+      },
+      {
+        "name": "MalwareAnalysis 73",
+        "key": "recodeking___MalwareAnalysis",
+        "description":
+          "A curated list of awesome malware analysis tools and resources "
+      },
+      {
+        "name": "NeteaseCloudMusic 64",
+        "key": "yezihaohao___NeteaseCloudMusic",
+        "description": "React Native 模仿网易云音乐手机客户端，兼容安卓和IOS两个平台。"
+      },
+      {
+        "name": "go-colorful 60",
+        "key": "lucasb-eyer___go-colorful",
+        "description": "A library for playing with colors in go (golang)."
+      },
+      {
+        "name": "CZInstagram 58",
+        "key": "geekaurora___CZInstagram",
+        "description":
+          "MVVM + FLUX iOS Instagram client  in Swift, eliminates Massive View Controller in unidirectional event/state flow manner."
+      },
+      {
+        "name": "insomnia 83",
+        "key": "getinsomnia___insomnia",
+        "description": "The most intuitive cross-platform REST API Client 😴"
+      },
+      {
+        "name": "arxiv-vanity 136",
+        "key": "arxiv-vanity___arxiv-vanity",
+        "description":
+          "Renders papers from Arxiv as responsive web pages so you don't have to squint at a PDF."
+      },
+      {
+        "name": "ProgressiveWordPress 54",
+        "key": "GoogleChromeLabs___ProgressiveWordPress",
+        "description": "A Sample WordPress-based Progressive Web App"
+      },
+      {
+        "name": "maptalks.js 53",
+        "key": "maptalks___maptalks.js",
+        "description":
+          "A light JavaScript library to create integrated 2D/3D maps."
+      },
+      {
+        "name": "OpenFermion 80",
+        "key": "quantumlib___OpenFermion",
+        "description":
+          "OpenFermion: The Electronic Structure Package For Quantum Computers."
+      },
+      {
+        "name": "awesome-mecheng 51",
+        "key": "m2n037___awesome-mecheng",
+        "description": ""
+      },
+      {
+        "name": "bucket-list 50",
+        "key": "sindresorhus___bucket-list",
+        "description": ""
+      },
+      {
+        "name": "StackGAN-v2 49",
+        "key": "hanzhanggit___StackGAN-v2",
+        "description": ""
+      },
+      {
+        "name": "laravel-totem 47",
+        "key": "codestudiohq___laravel-totem",
+        "description": ""
+      },
+      {
+        "name": "docker-onion-nmap 68",
+        "key": "milesrichardson___docker-onion-nmap",
+        "description": ""
+      },
+      {
+        "name": "chainercv 45",
+        "key": "chainer___chainercv",
+        "description": ""
+      },
+      {
+        "name": "pretrained.ml 45",
+        "key": "EliotAndres___pretrained.ml",
+        "description": ""
+      },
+      {
+        "name": "engineer-manager 535",
+        "key": "ryanburgess___engineer-manager",
+        "description": ""
+      },
+      {
+        "name": "react-mosaic 105",
+        "key": "palantir___react-mosaic",
+        "description": ""
+      },
+      {
+        "name": "burp-vulners-scanner 42",
+        "key": "vulnersCom___burp-vulners-scanner",
+        "description": ""
+      },
+      {
+        "name": "fonts 40",
+        "key": "google___fonts",
+        "description": ""
+      },
+      {
+        "name": "ReactiveListViewKit 39",
+        "key": "geekaurora___ReactiveListViewKit",
+        "description": ""
+      },
+      {
+        "name": "osprey 39",
+        "key": "TophantTechnology___osprey",
+        "description": ""
+      },
+      {
+        "name": "awesome-micro 37",
+        "key": "amio___awesome-micro",
+        "description": ""
+      },
+      {
+        "name": "dat-installer 36",
+        "key": "staltz___dat-installer",
+        "description": ""
+      },
+      {
+        "name": "AndroidInterview-Q-A 36",
+        "key": "JackyAndroid___AndroidInterview-Q-A",
+        "description": ""
+      },
+      {
+        "name": "awesome-interview-questions 50",
+        "key": "MaximAbramchuck___awesome-interview-questions",
+        "description": ""
+      },
+      {
+        "name": "MVVM 35",
+        "key": "ittianyu___MVVM",
+        "description": ""
+      },
+      {
+        "name": "OSXFuzz 59",
+        "key": "mwrlabs___OSXFuzz",
+        "description": ""
+      },
+      {
+        "name": "lit-html 34",
+        "key": "PolymerLabs___lit-html",
+        "description": ""
+      },
+      {
+        "name": "design-blocks 549",
+        "key": "froala___design-blocks",
+        "description": ""
+      },
+      {
+        "name": "webdnn 33",
+        "key": "mil-tokyo___webdnn",
+        "description": ""
+      },
+      {
+        "name": "engrafo 92",
+        "key": "arxiv-vanity___engrafo",
+        "description": ""
+      },
+      {
+        "name": "tinx 30",
+        "key": "ajthinking___tinx",
+        "description": ""
+      },
+      {
+        "name": "mmlspark 43",
+        "key": "Azure___mmlspark",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "2017-10-23",
+    "key": "2017-10-23",
+    "list": [
+      {
+        "name": "riot 774",
+        "key": "go-ego___riot",
+        "description":
+          "Go Open Source, Distributed, Simple and efficient Search Engine "
+      },
+      {
+        "name": "wedding 266",
+        "key": "iammapping___wedding",
+        "description": "婚礼大屏互动，微信请柬一站式解决方案"
+      },
+      {
+        "name": "FoodMood 177",
+        "key": "jdb5523___FoodMood",
+        "description": null
+      },
+      {
+        "name": "MachineLearning 190",
+        "key": "apachecn___MachineLearning",
+        "description": "Machine Learning in Action（机器学习实战）"
+      },
+      {
+        "name": "JSRobot 127",
+        "key": "reaalkhalil___JSRobot",
+        "description": null
+      },
+      {
+        "name": "Cards 174",
+        "key": "PaoloCuscela___Cards",
+        "description": "Awesome iOS 11 appstore cards in swift 4."
+      },
+      {
+        "name": "Face-recognition-test 113",
+        "key": "jiangwei1995910___Face-recognition-test",
+        "description": "基于深度学习的人脸相似度检测，对比两个人脸是否为同一人，也可用作人脸识别"
+      },
+      {
+        "name": "programming-mindmap 105",
+        "key": "justjavac___programming-mindmap",
+        "description": "编程相关的思维导图"
+      },
+      {
+        "name": "ViewAnimator 232",
+        "key": "marcosgriselli___ViewAnimator",
+        "description": "ViewAnimator brings your UI to life with just one line"
+      },
+      {
+        "name": "OkSocket 142",
+        "key": "xuuhaoo___OkSocket",
+        "description": "An blocking socket client for Android applications."
+      },
+      {
+        "name": "HanLP 91",
+        "key": "hankcs___HanLP",
+        "description": "自然语言处理 中文分词 词性标注 命名实体识别 依存句法分析 关键词提取 自动摘要 短语提取 拼音 简繁转换"
+      },
+      {
+        "name": "Front-End-Checklist 1202",
+        "key": "thedaviddias___Front-End-Checklist",
+        "description":
+          "🗂 The perfect Front-End Checklist for modern websites and meticulous developers"
+      },
+      {
+        "name": "awesome-creative-coding 79",
+        "key": "terkelg___awesome-creative-coding",
+        "description":
+          "🎨 Creative Coding: Generative Art, Data visualization, Interaction Design, Resources."
+      },
+      {
+        "name": "napajs 442",
+        "key": "Microsoft___napajs",
+        "description": "Napa.js: a multi-threaded JavaScript runtime"
+      },
+      {
+        "name": "p3c 163",
+        "key": "alibaba___p3c",
+        "description":
+          "Alibaba Java Coding Guidelines pmd implements and IDE plugin"
+      },
+      {
+        "name": "fly 74",
+        "key": "wendux___fly",
+        "description": ""
+      },
+      {
+        "name": "AliOS-Things 149",
+        "key": "alibaba___AliOS-Things",
+        "description": ""
+      },
+      {
+        "name": "design-blocks 422",
+        "key": "froala___design-blocks",
+        "description": ""
+      },
+      {
+        "name": "Default 70",
+        "key": "Nirma___Default",
+        "description": ""
+      },
+      {
+        "name": "engineer-manager 380",
+        "key": "ryanburgess___engineer-manager",
+        "description": ""
+      },
+      {
+        "name": "vue 167",
+        "key": "vuejs___vue",
+        "description": ""
+      },
+      {
+        "name": "pyrexecd 67",
+        "key": "euske___pyrexecd",
+        "description": ""
+      },
+      {
+        "name": "iview-admin 113",
+        "key": "iview___iview-admin",
+        "description": ""
+      },
+      {
+        "name": "appraise 192",
+        "key": "AppraiseQA___appraise",
+        "description": ""
+      },
+      {
+        "name": "pegasus 61",
+        "key": "XiaoMi___pegasus",
+        "description": ""
+      },
+      {
+        "name": "arxiv-vanity 60",
+        "key": "arxiv-vanity___arxiv-vanity",
+        "description": ""
+      },
+      {
+        "name": "Ribble 96",
+        "key": "armcha___Ribble",
+        "description": ""
+      },
+      {
+        "name": "nodebestpractices 56",
+        "key": "i0natan___nodebestpractices",
+        "description": ""
+      },
+      {
+        "name": "MISportsConnectWidget 56",
+        "key": "SickWorm___MISportsConnectWidget",
+        "description": ""
+      },
+      {
+        "name": "diamondback-ruby 55",
+        "key": "stereobooster___diamondback-ruby",
+        "description": ""
+      },
+      {
+        "name": "isucon7-qualify 52",
+        "key": "isucon___isucon7-qualify",
+        "description": ""
+      },
+      {
+        "name": "fastify 247",
+        "key": "fastify___fastify",
+        "description": ""
+      },
+      {
+        "name": "CVE 50",
+        "key": "nongiach___CVE",
+        "description": ""
+      },
+      {
+        "name": "puppeteer 109",
+        "key": "GoogleChrome___puppeteer",
+        "description": ""
+      },
+      {
+        "name": "react-mosaic 49",
+        "key": "palantir___react-mosaic",
+        "description": ""
+      },
+      {
+        "name": "engrafo 49",
+        "key": "arxiv-vanity___engrafo",
+        "description": ""
+      },
+      {
+        "name": "prettier 99",
+        "key": "prettier___prettier",
+        "description": ""
+      },
+      {
+        "name": "ScalingLayout 46",
+        "key": "iammert___ScalingLayout",
+        "description": ""
+      },
+      {
+        "name": "about-page 46",
+        "key": "android-links___about-page",
+        "description": ""
+      },
+      {
+        "name": "ok-gradle 73",
+        "key": "scana___ok-gradle",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "2017-10-22",
+    "key": "2017-10-22",
+    "list": [
+      {
+        "name": "dragonite-java 125",
+        "key": "dragonite-network___dragonite-java",
+        "description": "Main repository of dragonite projects in Java"
+      },
+      {
+        "name": "appraise 92",
+        "key": "AppraiseQA___appraise",
+        "description":
+          "The main NPM/Command line tool for Appraise -- painless visual test automation"
+      },
+      {
+        "name": "home-assistant 238",
+        "key": "home-assistant___home-assistant",
+        "description":
+          ":house_with_garden: Open-source home automation platform running on Python 3"
+      },
+      {
+        "name": "sixten 73",
+        "key": "ollef___sixten",
+        "description": "Functional programming with fewer indirections"
+      },
+      {
+        "name": "pcmos386v501 46",
+        "key": "roelandjansen___pcmos386v501",
+        "description":
+          "PC-MOS/386 v5.01 final release including cdrom driver sources."
+      },
+      {
+        "name": "promviz 178",
+        "key": "nghialv___promviz",
+        "description":
+          "Visualize the traffic of your clusters in realtime from Prometheus data"
+      },
+      {
+        "name": "spirit 37",
+        "key": "spirit___spirit",
+        "description": "Spirit - The animation tool for the web"
+      },
+      {
+        "name": "mlhelper 37",
+        "key": "laoqiren___mlhelper",
+        "description":
+          "Algorithms and utils for Machine Learning in JavaScript."
+      },
+      {
+        "name": "nuclio 141",
+        "key": "nuclio___nuclio",
+        "description":
+          "High-Performance Serverless event and data processing framework "
+      },
+      {
+        "name": "laravel-page-speed 60",
+        "key": "renatomarinho___laravel-page-speed",
+        "description":
+          "Package to optimize your site automatically which results in a 35%+ optimization"
+      },
+      {
+        "name": "facepaint 34",
+        "key": "emotion-js___facepaint",
+        "description": "Responsive style values for css-in-js."
+      },
+      {
+        "name": "wargo 34",
+        "key": "lord___wargo",
+        "description": "Easy Rust to WebAssembly"
+      },
+      {
+        "name": "BeatTheBookie 46",
+        "key": "Lisandro79___BeatTheBookie",
+        "description": "Betting Strategy to Beat the Bookies at Football Games"
+      },
+      {
+        "name": "redux-zero 179",
+        "key": "concretesolutions___redux-zero",
+        "description": "A lightweight state container based on Redux "
+      },
+      {
+        "name": "Ribble 29",
+        "key": "armcha___Ribble",
+        "description":
+          "Simple Dribbble Client using Dribbble API, fully written in Kotlin  😱 ❤️ "
+      },
+      {
+        "name": "NaughtyAttributes 28",
+        "key": "dbrizov___NaughtyAttributes",
+        "description": ""
+      },
+      {
+        "name": "feedmereadmes 28",
+        "key": "LappleApple___feedmereadmes",
+        "description": ""
+      },
+      {
+        "name": "MachineLearning 27",
+        "key": "apachecn___MachineLearning",
+        "description": ""
+      },
+      {
+        "name": "fullstack-graphql 58",
+        "key": "atulmy___fullstack-graphql",
+        "description": ""
+      },
+      {
+        "name": "tpot 25",
+        "key": "rhiever___tpot",
+        "description": ""
+      },
+      {
+        "name": "silt 25",
+        "key": "silt-lang___silt",
+        "description": ""
+      },
+      {
+        "name": "Wexflow 24",
+        "key": "aelassas___Wexflow",
+        "description": ""
+      },
+      {
+        "name": "godot 44",
+        "key": "godotengine___godot",
+        "description": ""
+      },
+      {
+        "name": "vegeta 23",
+        "key": "tsenart___vegeta",
+        "description": ""
+      },
+      {
+        "name": "adminMongo 22",
+        "key": "mrvautin___adminMongo",
+        "description": ""
+      },
+      {
+        "name": "ok-gradle 21",
+        "key": "scana___ok-gradle",
+        "description": ""
+      },
+      {
+        "name": "yoctodelay 21",
+        "key": "sindresorhus___yoctodelay",
+        "description": ""
+      },
+      {
+        "name": "flask-webpack-cookiecutter 21",
+        "key": "mattfinnell___flask-webpack-cookiecutter",
+        "description": ""
+      },
+      {
+        "name": "abseil-cpp 38",
+        "key": "abseil___abseil-cpp",
+        "description": ""
+      },
+      {
+        "name": "plaidml 122",
+        "key": "plaidml___plaidml",
+        "description": ""
+      },
+      {
+        "name": "awesome-machine-learning 50",
+        "key": "josephmisiti___awesome-machine-learning",
+        "description": ""
+      },
+      {
+        "name": "coach 109",
+        "key": "NervanaSystems___coach",
+        "description": ""
+      },
+      {
+        "name": "FoxDot 20",
+        "key": "Qirky___FoxDot",
+        "description": ""
+      },
+      {
+        "name": "Bootpack 20",
+        "key": "ConsoleTVs___Bootpack",
+        "description": ""
+      },
+      {
+        "name": "kotlin-sdp 20",
+        "key": "volodymyrprokopyuk___kotlin-sdp",
+        "description": ""
+      },
+      {
+        "name": "flowtypify 20",
+        "key": "rradczewski___flowtypify",
+        "description": ""
+      },
+      {
+        "name": "hugo 39",
+        "key": "gohugoio___hugo",
+        "description": ""
+      },
+      {
+        "name": "gogrep 26",
+        "key": "mvdan___gogrep",
+        "description": ""
+      },
+      {
+        "name": "stent 18",
+        "key": "krasimir___stent",
+        "description": ""
+      },
+      {
+        "name": "neohosts 17",
+        "key": "neoFelhz___neohosts",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "2017-10-21",
+    "key": "2017-10-21",
+    "list": [
+      {
+        "name": "bounter 280",
+        "key": "RaRe-Technologies___bounter",
+        "description":
+          "Efficient Counter that uses a limited (bounded) amount of memory regardless of data size."
+      },
+      {
+        "name": "thank-you-github 227",
+        "key": "thank-you-github___thank-you-github",
+        "description": "An open letter of gratitude to GitHub"
+      },
+      {
+        "name": "promviz 111",
+        "key": "nghialv___promviz",
+        "description":
+          "Visualize the traffic of your clusters in realtime from Prometheus data"
+      },
+      {
+        "name": "UDPspeeder 317",
+        "key": "wangyu-___UDPspeeder",
+        "description":
+          "Improve your Network Quality on a High-latency Lossy Link by using Forward Error Correction,supports All Traffics(TCP/UDP/ICMP)"
+      },
+      {
+        "name": "coach 78",
+        "key": "NervanaSystems___coach",
+        "description":
+          "Reinforcement Learning Coach by Intel® Nervana™ enables easy experimentation with state of the art Reinforcement Learning algorithms"
+      },
+      {
+        "name": "librestd 75",
+        "key": "evilsocket___librestd",
+        "description":
+          "A low dependencies and self contained library to create C++ RESTful API services."
+      },
+      {
+        "name": "home-assistant 94",
+        "key": "home-assistant___home-assistant",
+        "description":
+          ":house_with_garden: Open-source home automation platform running on Python 3"
+      },
+      {
+        "name": "engineer-manager 210",
+        "key": "ryanburgess___engineer-manager",
+        "description": "A list of engineering manager resource links."
+      },
+      {
+        "name": "nuclio 84",
+        "key": "nuclio___nuclio",
+        "description":
+          "High-Performance Serverless event and data processing framework "
+      },
+      {
+        "name": "pg_blkchain 48",
+        "key": "blkchain___pg_blkchain",
+        "description": "PostgreSQL Blockchain Extension"
+      },
+      {
+        "name": "Fruit 44",
+        "key": "ghuiii___Fruit",
+        "description": "Fruit for Html just like Gson for Json."
+      },
+      {
+        "name": "classwrap 44",
+        "key": "JorgeBucaran___classwrap",
+        "description":
+          "😺 0.3 KB JavaScript utility for conditionally concatenating class names."
+      },
+      {
+        "name": "plaidml 89",
+        "key": "plaidml___plaidml",
+        "description":
+          "PlaidML is a framework for making deep learning work everywhere."
+      },
+      {
+        "name": "nyc-dna-software 111",
+        "key": "propublica___nyc-dna-software",
+        "description":
+          "The source code, acquired by ProPublica, for New York City's Forensic Statistical Tool."
+      },
+      {
+        "name": "django-htk 36",
+        "key": "hacktoolkit___django-htk",
+        "description": "A set of apps, utilities, middlewares, etc for Django"
+      },
+      {
+        "name": "DilatedRNN 69",
+        "key": "code-terminator___DilatedRNN",
+        "description": ""
+      },
+      {
+        "name": "vue-node-mongodb 32",
+        "key": "pengrongjie___vue-node-mongodb",
+        "description": ""
+      },
+      {
+        "name": "openplex-app 29",
+        "key": "invu___openplex-app",
+        "description": ""
+      },
+      {
+        "name": "tinx 29",
+        "key": "ajthinking___tinx",
+        "description": ""
+      },
+      {
+        "name": "gonfig 28",
+        "key": "stevenroose___gonfig",
+        "description": ""
+      },
+      {
+        "name": "fullstack-graphql 27",
+        "key": "atulmy___fullstack-graphql",
+        "description": ""
+      },
+      {
+        "name": "udp2raw-tunnel 39",
+        "key": "wangyu-___udp2raw-tunnel",
+        "description": ""
+      },
+      {
+        "name": "headless_pi_config 26",
+        "key": "tynick___headless_pi_config",
+        "description": ""
+      },
+      {
+        "name": "snapkit 26",
+        "key": "mikeal___snapkit",
+        "description": ""
+      },
+      {
+        "name": "deep-learning-workshop 24",
+        "key": "NVIDIA-Korea___deep-learning-workshop",
+        "description": ""
+      },
+      {
+        "name": "redux-zero 123",
+        "key": "concretesolutions___redux-zero",
+        "description": ""
+      },
+      {
+        "name": "express-mongodb 21",
+        "key": "pengrongjie___express-mongodb",
+        "description": ""
+      },
+      {
+        "name": "nideshop-mini-program 21",
+        "key": "tumobi___nideshop-mini-program",
+        "description": ""
+      },
+      {
+        "name": "CppCoreGuidelines 21",
+        "key": "isocpp___CppCoreGuidelines",
+        "description": ""
+      },
+      {
+        "name": "laravel-stats 39",
+        "key": "stefanzweifel___laravel-stats",
+        "description": ""
+      },
+      {
+        "name": "CompactGUI 40",
+        "key": "ImminentFate___CompactGUI",
+        "description": ""
+      },
+      {
+        "name": "shareaccount 19",
+        "key": "NicoSantangelo___shareaccount",
+        "description": ""
+      },
+      {
+        "name": "CenteredCollectionView 17",
+        "key": "BenEmdon___CenteredCollectionView",
+        "description": ""
+      },
+      {
+        "name": "vizceral 17",
+        "key": "Netflix___vizceral",
+        "description": ""
+      },
+      {
+        "name": "Top10 17",
+        "key": "OWASP___Top10",
+        "description": ""
+      },
+      {
+        "name": "webxr-api 17",
+        "key": "mozilla___webxr-api",
+        "description": ""
+      },
+      {
+        "name": "neural-networks-and-deep-learning 17",
+        "key": "mnielsen___neural-networks-and-deep-learning",
+        "description": ""
+      },
+      {
+        "name": "flv.js 15",
+        "key": "Bilibili___flv.js",
+        "description": ""
+      },
+      {
+        "name": "lombok 15",
+        "key": "rzwitserloot___lombok",
+        "description": ""
+      },
+      {
+        "name": "smooth-scrollbar 15",
+        "key": "idiotWu___smooth-scrollbar",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "2017-10-20",
+    "key": "2017-10-20",
+    "list": [
+      {
+        "name": "holyjit 436",
+        "key": "nbp___holyjit",
+        "description": "Generic purpose Just-In-time compiler for Rust."
+      },
+      {
+        "name": "Resources-Front-End-Beginner 251",
+        "key": "thedaviddias___Resources-Front-End-Beginner",
+        "description":
+          "💯 The most essential list of resources for Front-End beginners (🇺🇸 🇬🇧 & 🇫🇷)"
+      },
+      {
+        "name": "UDPspeeder 142",
+        "key": "wangyu-___UDPspeeder",
+        "description":
+          "Improve your Network Quality on a High-latency Lossy Link by using Forward Error Correction,supports All Traffics(TCP/UDP/ICMP)"
+      },
+      {
+        "name": "OkSocket 157",
+        "key": "xuuhaoo___OkSocket",
+        "description": "An blocking socket client for Android applications."
+      },
+      {
+        "name": "engineer-manager 112",
+        "key": "ryanburgess___engineer-manager",
+        "description": "A list of engineering manager resource links."
+      },
+      {
+        "name": "ViewAnimator 251",
+        "key": "marcosgriselli___ViewAnimator",
+        "description": "ViewAnimator brings your UI to life with just one line"
+      },
+      {
+        "name": "AliOS-Things 92",
+        "key": "alibaba___AliOS-Things",
+        "description":
+          "AliOS Things released by Alibaba is an open-source implementation of operating system (OS) for Internet of Things (IoT). "
+      },
+      {
+        "name": "tasklets 71",
+        "key": "GoogleChromeLabs___tasklets",
+        "description": null
+      },
+      {
+        "name": "ip2region 68",
+        "key": "lionsoul2014___ip2region",
+        "description":
+          "准确率99.9%的ip地址定位库，0.0x毫秒级查询，数据库文件大小只有1.5M，提供了java,php,c,python,nodejs,golang查询绑定和Binary,B树,内存三种查询算法，妈妈再也不用担心我的ip地址定位！"
+      },
+      {
+        "name": "thank-you-github 62",
+        "key": "thank-you-github___thank-you-github",
+        "description": "An open letter of gratitude to GitHub"
+      },
+      {
+        "name": "nyc-dna-software 60",
+        "key": "propublica___nyc-dna-software",
+        "description":
+          "The source code, acquired by ProPublica, for New York City's Forensic Statistical Tool."
+      },
+      {
+        "name": "sling 52",
+        "key": "google___sling",
+        "description": "SLING - A natural language frame semantics parser"
+      },
+      {
+        "name": "awesome-mobile-conferences 50",
+        "key": "amobconf___awesome-mobile-conferences",
+        "description": "📲 A collaborative list of Mobile Conferences"
+      },
+      {
+        "name": "vixl44 48",
+        "key": "sebashwa___vixl44",
+        "description":
+          "Create pixel art inside your terminal using vim movements"
+      },
+      {
+        "name": "Cards 174",
+        "key": "PaoloCuscela___Cards",
+        "description": "Awesome iOS 11 appstore cards in swift 4."
+      },
+      {
+        "name": "incubator-singa 46",
+        "key": "apache___incubator-singa",
+        "description": ""
+      },
+      {
+        "name": "mastodon 70",
+        "key": "tootsuite___mastodon",
+        "description": ""
+      },
+      {
+        "name": "XcodeGen 44",
+        "key": "yonaskolb___XcodeGen",
+        "description": ""
+      },
+      {
+        "name": "redux-zero 89",
+        "key": "concretesolutions___redux-zero",
+        "description": ""
+      },
+      {
+        "name": "plaidml 37",
+        "key": "plaidml___plaidml",
+        "description": ""
+      },
+      {
+        "name": "Job 37",
+        "key": "18010927657___Job",
+        "description": ""
+      },
+      {
+        "name": "mkernel 34",
+        "key": "arjun024___mkernel",
+        "description": ""
+      },
+      {
+        "name": "restic 33",
+        "key": "restic___restic",
+        "description": ""
+      },
+      {
+        "name": "DotNetAnywhere 32",
+        "key": "chrisdunelm___DotNetAnywhere",
+        "description": ""
+      },
+      {
+        "name": "Blazor 31",
+        "key": "SteveSanderson___Blazor",
+        "description": ""
+      },
+      {
+        "name": "guides 102",
+        "key": "freeCodeCamp___guides",
+        "description": ""
+      },
+      {
+        "name": "security-guide-for-developers 29",
+        "key": "FallibleInc___security-guide-for-developers",
+        "description": ""
+      },
+      {
+        "name": "s3-inspector 29",
+        "key": "kromtech___s3-inspector",
+        "description": ""
+      },
+      {
+        "name": "Radium-Keylogger 28",
+        "key": "mehulj94___Radium-Keylogger",
+        "description": ""
+      },
+      {
+        "name": "rofi 27",
+        "key": "DaveDavenport___rofi",
+        "description": ""
+      },
+      {
+        "name": "rqlite 27",
+        "key": "rqlite___rqlite",
+        "description": ""
+      },
+      {
+        "name": "DilatedRNN 27",
+        "key": "code-terminator___DilatedRNN",
+        "description": ""
+      },
+      {
+        "name": "stdweb 27",
+        "key": "koute___stdweb",
+        "description": ""
+      },
+      {
+        "name": "schnack 78",
+        "key": "gka___schnack",
+        "description": ""
+      },
+      {
+        "name": "MaterialStepperView 25",
+        "key": "fython___MaterialStepperView",
+        "description": ""
+      },
+      {
+        "name": "nuclio 25",
+        "key": "nuclio___nuclio",
+        "description": ""
+      },
+      {
+        "name": "HuaweiApp 25",
+        "key": "18010927657___HuaweiApp",
+        "description": ""
+      },
+      {
+        "name": "gopa 25",
+        "key": "infinitbyte___gopa",
+        "description": ""
+      },
+      {
+        "name": "techstack-tutorial 25",
+        "key": "XXXLutz___techstack-tutorial",
+        "description": ""
+      },
+      {
+        "name": "truffle 24",
+        "key": "trufflesuite___truffle",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "2017-10-19",
+    "key": "2017-10-19",
+    "list": [
+      {
+        "name": "devdocs 454",
+        "key": "Thibaut___devdocs",
+        "description": "API Documentation Browser"
+      },
+      {
+        "name": "gutenberg 197",
+        "key": "Keats___gutenberg",
+        "description":
+          "An opinionated static site generator with everything built-in."
+      },
+      {
+        "name": "krackattacks-test-ap-ft 477",
+        "key": "vanhoefm___krackattacks-test-ap-ft",
+        "description": null
+      },
+      {
+        "name": "tldr 109",
+        "key": "tldr-pages___tldr",
+        "description": ":books: Simplified and community-driven man pages"
+      },
+      {
+        "name": "fzf 159",
+        "key": "junegunn___fzf",
+        "description": ":cherry_blossom: A command-line fuzzy finder"
+      },
+      {
+        "name": "surgemq 102",
+        "key": "surgemq___surgemq",
+        "description": "High-Performance MQTT Server and Client Libraries"
+      },
+      {
+        "name": "Front-End-Checklist 1794",
+        "key": "thedaviddias___Front-End-Checklist",
+        "description":
+          "🗂 The perfect Front-End Checklist for modern websites and meticulous developers"
+      },
+      {
+        "name": "dotfiles 74",
+        "key": "statico___dotfiles",
+        "description": ":floppy_disk: Ian's dotfiles, utils, and Vim config"
+      },
+      {
+        "name": "native-lldb-for-ios 69",
+        "key": "Proteas___native-lldb-for-ios",
+        "description": "native LLDB(v3.8) for iOS"
+      },
+      {
+        "name": "fzf.vim 68",
+        "key": "junegunn___fzf.vim",
+        "description": "fzf :heart: vim"
+      },
+      {
+        "name": "ckeditor5 66",
+        "key": "ckeditor___ckeditor5",
+        "description":
+          "Development environment for CKEditor 5; the best browser-based rich text editor."
+      },
+      {
+        "name": "game-programmer 62",
+        "key": "miloyip___game-programmer",
+        "description": "A Study Path for Game Programmer"
+      },
+      {
+        "name": "guides 60",
+        "key": "freeCodeCamp___guides",
+        "description":
+          "A collection of easy-to-understand guides to programming tools"
+      },
+      {
+        "name": "web-font-loading-recipes 59",
+        "key": "zachleat___web-font-loading-recipes",
+        "description":
+          "A bunch of demos for different web font loading strategies. Companion to https://www.zachleat.com/web/comprehensive-webfonts/ Read more: https://www.zachleat.com/web/recipes/"
+      },
+      {
+        "name": "osx-terminal-themes 56",
+        "key": "lysyi3m___osx-terminal-themes",
+        "description": "Color schemes for default Mac OS X Terminal.app"
+      },
+      {
+        "name": "dpvs 163",
+        "key": "iqiyi___dpvs",
+        "description": ""
+      },
+      {
+        "name": "ale 73",
+        "key": "w0rp___ale",
+        "description": ""
+      },
+      {
+        "name": "PopsTabView 44",
+        "key": "ccj659___PopsTabView",
+        "description": ""
+      },
+      {
+        "name": "undotree 40",
+        "key": "mbbill___undotree",
+        "description": ""
+      },
+      {
+        "name": "pegasus 71",
+        "key": "XiaoMi___pegasus",
+        "description": ""
+      },
+      {
+        "name": "ripgrep 58",
+        "key": "BurntSushi___ripgrep",
+        "description": ""
+      },
+      {
+        "name": "redux-zero 39",
+        "key": "concretesolutions___redux-zero",
+        "description": ""
+      },
+      {
+        "name": "frontend 81",
+        "key": "Kottans___frontend",
+        "description": ""
+      },
+      {
+        "name": "jupyter2slides 36",
+        "key": "datitran___jupyter2slides",
+        "description": ""
+      },
+      {
+        "name": "Boostnote 53",
+        "key": "BoostIO___Boostnote",
+        "description": ""
+      },
+      {
+        "name": "sway 35",
+        "key": "swaywm___sway",
+        "description": ""
+      },
+      {
+        "name": "owasp-mstg 33",
+        "key": "OWASP___owasp-mstg",
+        "description": ""
+      },
+      {
+        "name": "Scientific_Python_Assignments_POLIMI_EETBS 32",
+        "key": "bnajafi___Scientific_Python_Assignments_POLIMI_EETBS",
+        "description": ""
+      },
+      {
+        "name": "RulerView 31",
+        "key": "superSp___RulerView",
+        "description": ""
+      },
+      {
+        "name": "relative-url-extractor 30",
+        "key": "jobertabma___relative-url-extractor",
+        "description": ""
+      },
+      {
+        "name": "the_silver_searcher 30",
+        "key": "ggreer___the_silver_searcher",
+        "description": ""
+      },
+      {
+        "name": "aws-mobile-react-native-starter 30",
+        "key": "awslabs___aws-mobile-react-native-starter",
+        "description": ""
+      },
+      {
+        "name": "laravel-page-speed 70",
+        "key": "renatomarinho___laravel-page-speed",
+        "description": ""
+      },
+      {
+        "name": "MonitorDarkly 29",
+        "key": "RedBalloonShenanigans___MonitorDarkly",
+        "description": ""
+      },
+      {
+        "name": "vrn 29",
+        "key": "AaronJackson___vrn",
+        "description": ""
+      },
+      {
+        "name": "fzy 27",
+        "key": "jhawthorn___fzy",
+        "description": ""
+      },
+      {
+        "name": "glot 27",
+        "key": "Arafatk___glot",
+        "description": ""
+      },
+      {
+        "name": "ABTestingGateway 27",
+        "key": "CNSRE___ABTestingGateway",
+        "description": ""
+      },
+      {
+        "name": "modern-js-reference 27",
+        "key": "feiwen8772___modern-js-reference",
+        "description": ""
+      },
+      {
+        "name": "vscode-restclient 47",
+        "key": "Huachao___vscode-restclient",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "2017-10-18",
+    "key": "2017-10-18",
+    "list": [
+      {
+        "name": "napajs 1798",
+        "key": "Microsoft___napajs",
+        "description": "Napa.js: a multi-threaded JavaScript runtime"
+      },
+      {
+        "name": "Front-End-Checklist 1089",
+        "key": "thedaviddias___Front-End-Checklist",
+        "description":
+          "🗂 The perfect Front-End Checklist for modern websites and meticulous developers"
+      },
+      {
+        "name": "iview-admin 938",
+        "key": "iview___iview-admin",
+        "description": "Vue 2.0 admin management system template based on iView"
+      },
+      {
+        "name": "accessibilityjs 319",
+        "key": "github___accessibilityjs",
+        "description": "Client side accessibility error scanner."
+      },
+      {
+        "name": "iview 313",
+        "key": "iview___iview",
+        "description": "A high quality UI Toolkit built on Vue.js 2.0"
+      },
+      {
+        "name": "st.js 210",
+        "key": "SelectTransform___st.js",
+        "description": "JSON template over JSON"
+      },
+      {
+        "name": "writing 327",
+        "key": "josephernest___writing",
+        "description":
+          "Writing is a lightweight distraction-free text editor, in the browser (Markdown and LaTeX supported)."
+      },
+      {
+        "name": "image-trace-loader 203",
+        "key": "EmilTholin___image-trace-loader",
+        "description":
+          "Loads images and exports traced outlines as image/svg+xml URL-encoded data"
+      },
+      {
+        "name": "Dragonfire 197",
+        "key": "DragonComputer___Dragonfire",
+        "description":
+          "Dragonfire is an open-source virtual assistant for Ubuntu based Linux distributions"
+      },
+      {
+        "name": "krackattacks-test-ap-ft 155",
+        "key": "vanhoefm___krackattacks-test-ap-ft",
+        "description": null
+      },
+      {
+        "name": "TodayStepCounter 139",
+        "key": "jiahongfei___TodayStepCounter",
+        "description": "Android计步模块（类似微信运动，支付宝计步，今日步数），记录当天从0点到23:59的步数"
+      },
+      {
+        "name": "CatchUp 208",
+        "key": "hzsweers___CatchUp",
+        "description": "An app for catching up on things."
+      },
+      {
+        "name": "ida_ea 124",
+        "key": "1111joe1111___ida_ea",
+        "description": "A set of exploitation/reversing aids for IDA"
+      },
+      {
+        "name": "ieaseMusic 144",
+        "key": "trazyn___ieaseMusic",
+        "description": "这应该是最好的网易云音乐播放器了，没有之一，如果有请打醒  :metal: "
+      },
+      {
+        "name": "dpvs 84",
+        "key": "iqiyi___dpvs",
+        "description":
+          "DPVS is a high performance Layer-4 load balancer based on DPDK."
+      },
+      {
+        "name": "horovod 141",
+        "key": "uber___horovod",
+        "description": ""
+      },
+      {
+        "name": "tidb 154",
+        "key": "pingcap___tidb",
+        "description": ""
+      },
+      {
+        "name": "vg 61",
+        "key": "GetStream___vg",
+        "description": ""
+      },
+      {
+        "name": "OnePush 107",
+        "key": "pengyuantao___OnePush",
+        "description": ""
+      },
+      {
+        "name": "mastering-modular-javascript 125",
+        "key": "mjavascript___mastering-modular-javascript",
+        "description": ""
+      },
+      {
+        "name": "Tello 51",
+        "key": "joshwcomeau___Tello",
+        "description": ""
+      },
+      {
+        "name": "CoordinatorTabLayout 48",
+        "key": "hugeterry___CoordinatorTabLayout",
+        "description": ""
+      },
+      {
+        "name": "Spaghetti 48",
+        "key": "m4ll0k___Spaghetti",
+        "description": ""
+      },
+      {
+        "name": "Bootpack 48",
+        "key": "ConsoleTVs___Bootpack",
+        "description": ""
+      },
+      {
+        "name": "slate 69",
+        "key": "ianstormtaylor___slate",
+        "description": ""
+      },
+      {
+        "name": "readline 45",
+        "key": "chzyer___readline",
+        "description": ""
+      },
+      {
+        "name": "etcdircd 44",
+        "key": "heyitsanthony___etcdircd",
+        "description": ""
+      },
+      {
+        "name": "clojurecademy 161",
+        "key": "clojurecademy___clojurecademy",
+        "description": ""
+      },
+      {
+        "name": "dotweb 43",
+        "key": "devfeel___dotweb",
+        "description": ""
+      },
+      {
+        "name": "anime 57",
+        "key": "juliangarnier___anime",
+        "description": ""
+      },
+      {
+        "name": "micromodal 41",
+        "key": "ghosh___micromodal",
+        "description": ""
+      },
+      {
+        "name": "purs 39",
+        "key": "xcambar___purs",
+        "description": ""
+      },
+      {
+        "name": "spectacle 62",
+        "key": "eczarny___spectacle",
+        "description": ""
+      },
+      {
+        "name": "survey 38",
+        "key": "AlecAivazis___survey",
+        "description": ""
+      },
+      {
+        "name": "frontend 36",
+        "key": "Kottans___frontend",
+        "description": ""
+      },
+      {
+        "name": "fontplop 72",
+        "key": "matthewgonzalez___fontplop",
+        "description": ""
+      },
+      {
+        "name": "glimmer-redux 35",
+        "key": "glimmer-redux___glimmer-redux",
+        "description": ""
+      },
+      {
+        "name": "TinyPNG4Mac 59",
+        "key": "kyleduo___TinyPNG4Mac",
+        "description": ""
+      },
+      {
+        "name": "excelPanel 34",
+        "key": "zhouchaoyuan___excelPanel",
+        "description": ""
+      },
+      {
+        "name": "wtfpython 33",
+        "key": "satwikkansal___wtfpython",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "2017-10-17",
+    "key": "2017-10-17",
+    "list": [
+      {
+        "name": "Swift-Keylogger 389",
+        "key": "SkrewEverything___Swift-Keylogger",
+        "description": "Keylogger for mac written in Swift using HID"
+      },
+      {
+        "name": "android_interview 196",
+        "key": "LRH1993___android_interview",
+        "description": "gitbook地址"
+      },
+      {
+        "name": "iview-admin 139",
+        "key": "iview___iview-admin",
+        "description": "Vue 2.0 admin management system template based on iView"
+      },
+      {
+        "name": "sketch-to-react-native 191",
+        "key": "nanohop___sketch-to-react-native",
+        "description": "Convert Sketch files into React Native components"
+      },
+      {
+        "name": "web-dsp 101",
+        "key": "shamadee___web-dsp",
+        "description":
+          "A client-side signal processing library utilizing the power of WebAssembly (.wasm)"
+      },
+      {
+        "name": "vessel 95",
+        "key": "shipping-docker___vessel",
+        "description": "Up and running with small Docker environments"
+      },
+      {
+        "name": "fastify 342",
+        "key": "fastify___fastify",
+        "description": "Fast and low overhead web framework, for Node.js"
+      },
+      {
+        "name": "cypress 169",
+        "key": "cypress-io___cypress",
+        "description":
+          "Fast, easy and reliable testing for anything that runs in a browser."
+      },
+      {
+        "name": "BOOLR 91",
+        "key": "GGBRW___BOOLR",
+        "description": "A digital logic simulator"
+      },
+      {
+        "name": "clojurecademy 91",
+        "key": "clojurecademy___clojurecademy",
+        "description": "Clojurecademy Web Application"
+      },
+      {
+        "name": "CompactGUI 121",
+        "key": "ImminentFate___CompactGUI",
+        "description": "Visual Interface for the Windows Compact.exe cmdlet"
+      },
+      {
+        "name": "algorithm 69",
+        "key": "qiwsir___algorithm",
+        "description": null
+      },
+      {
+        "name": "pix2code 69",
+        "key": "tonybeltramelli___pix2code",
+        "description":
+          "pix2code: Generating Code from a Graphical User Interface Screenshot"
+      },
+      {
+        "name": "ohm 67",
+        "key": "harc___ohm",
+        "description":
+          "A library and language for building parsers, interpreters, compilers, etc."
+      },
+      {
+        "name": "encrypt 66",
+        "key": "GcsSloop___encrypt",
+        "description": ":paw_prints: Android 加密解密工具包。"
+      },
+      {
+        "name": "design-blocks 803",
+        "key": "froala___design-blocks",
+        "description": ""
+      },
+      {
+        "name": "milewski-ctfp-pdf 111",
+        "key": "hmemcpy___milewski-ctfp-pdf",
+        "description": ""
+      },
+      {
+        "name": "primitive 83",
+        "key": "fogleman___primitive",
+        "description": ""
+      },
+      {
+        "name": "trumail 178",
+        "key": "sdwolfe32___trumail",
+        "description": ""
+      },
+      {
+        "name": "CatchUp 55",
+        "key": "hzsweers___CatchUp",
+        "description": ""
+      },
+      {
+        "name": "mastering-modular-javascript 55",
+        "key": "mjavascript___mastering-modular-javascript",
+        "description": ""
+      },
+      {
+        "name": "rclayout 71",
+        "key": "GcsSloop___rclayout",
+        "description": ""
+      },
+      {
+        "name": "zendAPI 53",
+        "key": "Qihoo360___zendAPI",
+        "description": ""
+      },
+      {
+        "name": "DrawerKit 51",
+        "key": "Babylonpartners___DrawerKit",
+        "description": ""
+      },
+      {
+        "name": "PonyMusic 51",
+        "key": "wangchenyan___PonyMusic",
+        "description": ""
+      },
+      {
+        "name": "CAP 50",
+        "key": "dotnetcore___CAP",
+        "description": ""
+      },
+      {
+        "name": "writing 50",
+        "key": "josephernest___writing",
+        "description": ""
+      },
+      {
+        "name": "UnityNativeScripting 49",
+        "key": "jacksondunstan___UnityNativeScripting",
+        "description": ""
+      },
+      {
+        "name": "yjPlay 48",
+        "key": "yangchaojiang___yjPlay",
+        "description": ""
+      },
+      {
+        "name": "persepolis 47",
+        "key": "persepolisdm___persepolis",
+        "description": ""
+      },
+      {
+        "name": "krackinfo 205",
+        "key": "kristate___krackinfo",
+        "description": ""
+      },
+      {
+        "name": "netutils-linux 46",
+        "key": "strizhechenko___netutils-linux",
+        "description": ""
+      },
+      {
+        "name": "Awesome-Hacking-Resources 551",
+        "key": "vitalysim___Awesome-Hacking-Resources",
+        "description": ""
+      },
+      {
+        "name": "miscreant 44",
+        "key": "miscreant___miscreant",
+        "description": ""
+      },
+      {
+        "name": "brewcalc 43",
+        "key": "brewcomputer___brewcalc",
+        "description": ""
+      },
+      {
+        "name": "vue-qq 42",
+        "key": "lensh___vue-qq",
+        "description": ""
+      },
+      {
+        "name": "prototype 41",
+        "key": "inkle___prototype",
+        "description": ""
+      },
+      {
+        "name": "sov2ex 41",
+        "key": "bynil___sov2ex",
+        "description": ""
+      },
+      {
+        "name": "GUI-YouGet 40",
+        "key": "ingbyr___GUI-YouGet",
+        "description": ""
+      },
+      {
+        "name": "puppeteer 238",
+        "key": "GoogleChrome___puppeteer",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "2017-10-16",
+    "key": "2017-10-16",
+    "list": [
+      {
+        "name": "krackattacks 760",
+        "key": "vanhoefm___krackattacks",
+        "description": null
+      },
+      {
+        "name": "design-blocks 519",
+        "key": "froala___design-blocks",
+        "description":
+          "A set of 170+ Bootstrap based design blocks ready to be used to create clean modern websites."
+      },
+      {
+        "name": "multi-speaker-tacotron-tensorflow 171",
+        "key": "devsisters___multi-speaker-tacotron-tensorflow",
+        "description": null
+      },
+      {
+        "name": "fastify 152",
+        "key": "fastify___fastify",
+        "description": "Fast and low overhead web framework, for Node.js"
+      },
+      {
+        "name": "p3c 1363",
+        "key": "alibaba___p3c",
+        "description":
+          "Alibaba Java Coding Guidelines pmd implements and IDE plugin"
+      },
+      {
+        "name": "pegasus 125",
+        "key": "XiaoMi___pegasus",
+        "description": null
+      },
+      {
+        "name": "setup 124",
+        "key": "lewagon___setup",
+        "description":
+          "Setup instructions for Le Wagon's students on their first day of camp"
+      },
+      {
+        "name": "dotfiles 123",
+        "key": "lewagon___dotfiles",
+        "description": "Default configuration for Le Wagon's students"
+      },
+      {
+        "name": "krackinfo 121",
+        "key": "kristate___krackinfo",
+        "description":
+          "Vendor Response Matrix for KRACK WPA2 (Key Reinstallation Attack)"
+      },
+      {
+        "name": "Hitchhiker 114",
+        "key": "brookshi___Hitchhiker",
+        "description": "a Restful Api integrated testing tool"
+      },
+      {
+        "name": "call-for-wpa3 106",
+        "key": "d33tah___call-for-wpa3",
+        "description":
+          "Call for WPA3 - what's wrong with WPA2 security and how to fix it"
+      },
+      {
+        "name": "wcdb 101",
+        "key": "Tencent___wcdb",
+        "description":
+          "WCDB is a cross-platform database framework developed by WeChat."
+      },
+      {
+        "name": "libsignal-node 96",
+        "key": "ForstaLabs___libsignal-node",
+        "description": "Signal protocol implementation for Node.js"
+      },
+      {
+        "name": "best-resume-ever 191",
+        "key": "salomonelli___best-resume-ever",
+        "description":
+          ":necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS."
+      },
+      {
+        "name": "trumail 90",
+        "key": "sdwolfe32___trumail",
+        "description":
+          ":email: :white_check_mark: A Fast and Free Email Verification API written in Go"
+      },
+      {
+        "name": "billboard.js 81",
+        "key": "naver___billboard.js",
+        "description": ""
+      },
+      {
+        "name": "puppeteer 158",
+        "key": "GoogleChrome___puppeteer",
+        "description": ""
+      },
+      {
+        "name": "pynotes 69",
+        "key": "srigalibe___pynotes",
+        "description": ""
+      },
+      {
+        "name": "nsjail 103",
+        "key": "google___nsjail",
+        "description": ""
+      },
+      {
+        "name": "side-project-marketing 66",
+        "key": "karllhughes___side-project-marketing",
+        "description": ""
+      },
+      {
+        "name": "roca 66",
+        "key": "crocs-muni___roca",
+        "description": ""
+      },
+      {
+        "name": "franchise 101",
+        "key": "HVF___franchise",
+        "description": ""
+      },
+      {
+        "name": "chips-input-layout 113",
+        "key": "tylersuehr7___chips-input-layout",
+        "description": ""
+      },
+      {
+        "name": "tidb 81",
+        "key": "pingcap___tidb",
+        "description": ""
+      },
+      {
+        "name": "awesome-dataviz 62",
+        "key": "fasouto___awesome-dataviz",
+        "description": ""
+      },
+      {
+        "name": "passionfruit 99",
+        "key": "chaitin___passionfruit",
+        "description": ""
+      },
+      {
+        "name": "modern-js-cheatsheet 138",
+        "key": "mbeaudru___modern-js-cheatsheet",
+        "description": ""
+      },
+      {
+        "name": "PagingKit 95",
+        "key": "kazuhiro4949___PagingKit",
+        "description": ""
+      },
+      {
+        "name": "OkSocket 89",
+        "key": "xuuhaoo___OkSocket",
+        "description": ""
+      },
+      {
+        "name": "React-Sight 236",
+        "key": "React-Sight___React-Sight",
+        "description": ""
+      },
+      {
+        "name": "discharge 57",
+        "key": "brandonweiss___discharge",
+        "description": ""
+      },
+      {
+        "name": "hello-auth-grpc 94",
+        "key": "enricofoltran___hello-auth-grpc",
+        "description": ""
+      },
+      {
+        "name": "DbgShell 71",
+        "key": "Microsoft___DbgShell",
+        "description": ""
+      },
+      {
+        "name": "lozad.js 69",
+        "key": "ApoorvSaxena___lozad.js",
+        "description": ""
+      },
+      {
+        "name": "grumbler 54",
+        "key": "krakenjs___grumbler",
+        "description": ""
+      },
+      {
+        "name": "odyssey-scrollyteller 52",
+        "key": "abcnews___odyssey-scrollyteller",
+        "description": ""
+      },
+      {
+        "name": "blackhat17-pocs 51",
+        "key": "vanhoefm___blackhat17-pocs",
+        "description": ""
+      },
+      {
+        "name": "django-htk 50",
+        "key": "hacktoolkit___django-htk",
+        "description": ""
+      },
+      {
+        "name": "brpc 83",
+        "key": "brpc___brpc",
+        "description": ""
+      },
+      {
+        "name": "sketch-to-react-native 49",
+        "key": "nanohop___sketch-to-react-native",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "2017-10-15",
+    "key": "2017-10-15",
+    "list": [
+      {
+        "name": "recompiler 591",
+        "key": "rexdex___recompiler",
+        "description": "Xbox360 -> Windows executable converter"
+      },
+      {
+        "name": "p3c 659",
+        "key": "alibaba___p3c",
+        "description":
+          "Alibaba Java Coding Guidelines pmd implements and IDE plugin"
+      },
+      {
+        "name": "EdgeML 97",
+        "key": "Microsoft___EdgeML",
+        "description":
+          "This repository provides code for machine learning algorithms for edge devices developed at Microsoft Research India."
+      },
+      {
+        "name": "object-graph 81",
+        "key": "sebastianbergmann___object-graph",
+        "description": "Provides useful operations on PHP object graphs"
+      },
+      {
+        "name": "speed-test 219",
+        "key": "sindresorhus___speed-test",
+        "description":
+          "Test your internet connection speed and ping using speedtest.net from the CLI"
+      },
+      {
+        "name": "ieaseMusic 91",
+        "key": "trazyn___ieaseMusic",
+        "description": "这应该是最好的网易云音乐播放器了，没有之一，如果有请打醒  :metal: "
+      },
+      {
+        "name": "calamine 56",
+        "key": "tafia___calamine",
+        "description":
+          "A pure Rust Excel/OpenDocument SpeadSheets file reader: rust on metal sheets"
+      },
+      {
+        "name": "webpackmonitor 151",
+        "key": "webpackmonitor___webpackmonitor",
+        "description":
+          "A tool for monitoring webpack optimization metrics through the development process"
+      },
+      {
+        "name": "micro-frontends 50",
+        "key": "neuland___micro-frontends",
+        "description": "extending the microservice paradigms to web development"
+      },
+      {
+        "name": "design-blocks 148",
+        "key": "froala___design-blocks",
+        "description":
+          "A set of 170+ Bootstrap based design blocks ready to be used to create clean modern websites."
+      },
+      {
+        "name": "sandbox 48",
+        "key": "kossiitkgp___sandbox",
+        "description": "A sandbox to try git"
+      },
+      {
+        "name": "Trixie-UI-kit 47",
+        "key": "Trixieapp___Trixie-UI-kit",
+        "description": "The react-native UI Kit you've been looking for."
+      },
+      {
+        "name": "grafana 68",
+        "key": "grafana___grafana",
+        "description":
+          "The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More"
+      },
+      {
+        "name": "CompactGUI 45",
+        "key": "ImminentFate___CompactGUI",
+        "description": "Visual Interface for the Windows Compact.exe cmdlet"
+      },
+      {
+        "name": "3D_Street_View 67",
+        "key": "amir32002___3D_Street_View",
+        "description":
+          "The repo of Street View Image, Pose, and 3D Cities Dataset. Used in \"Generic 3D Representation via Pose Estimation and Matching\", ECCV16"
+      },
+      {
+        "name": "chips-input-layout 34",
+        "key": "tylersuehr7___chips-input-layout",
+        "description": ""
+      },
+      {
+        "name": "mmlspark 33",
+        "key": "Azure___mmlspark",
+        "description": ""
+      },
+      {
+        "name": "doitlive 50",
+        "key": "sloria___doitlive",
+        "description": ""
+      },
+      {
+        "name": "pytorch-sepconv 31",
+        "key": "sniklaus___pytorch-sepconv",
+        "description": ""
+      },
+      {
+        "name": "trackerslist 39",
+        "key": "ngosang___trackerslist",
+        "description": ""
+      },
+      {
+        "name": "tusk 29",
+        "key": "klauscfhq___tusk",
+        "description": ""
+      },
+      {
+        "name": "go-http-tunnel 185",
+        "key": "mmatczuk___go-http-tunnel",
+        "description": ""
+      },
+      {
+        "name": "merge-windows 28",
+        "key": "sindresorhus___merge-windows",
+        "description": ""
+      },
+      {
+        "name": "hello-auth-grpc 27",
+        "key": "enricofoltran___hello-auth-grpc",
+        "description": ""
+      },
+      {
+        "name": "Dopamine 27",
+        "key": "digimezzo___Dopamine",
+        "description": ""
+      },
+      {
+        "name": "ASLRay 35",
+        "key": "cryptolok___ASLRay",
+        "description": ""
+      },
+      {
+        "name": "Awesome-Hacking-Resources 278",
+        "key": "vitalysim___Awesome-Hacking-Resources",
+        "description": ""
+      },
+      {
+        "name": "webjack 24",
+        "key": "publiclab___webjack",
+        "description": ""
+      },
+      {
+        "name": "makepad.github.io 24",
+        "key": "makepad___makepad.github.io",
+        "description": ""
+      },
+      {
+        "name": "nsjail 24",
+        "key": "google___nsjail",
+        "description": ""
+      },
+      {
+        "name": "Seal-Report 23",
+        "key": "ariacom___Seal-Report",
+        "description": ""
+      },
+      {
+        "name": "qBittorrent 23",
+        "key": "qbittorrent___qBittorrent",
+        "description": ""
+      },
+      {
+        "name": "keras 48",
+        "key": "fchollet___keras",
+        "description": ""
+      },
+      {
+        "name": "directories 22",
+        "key": "soc___directories",
+        "description": ""
+      },
+      {
+        "name": "aws-lambda-cheatsheet 21",
+        "key": "srcecde___aws-lambda-cheatsheet",
+        "description": ""
+      },
+      {
+        "name": "subnet 21",
+        "key": "twitchyliquid64___subnet",
+        "description": ""
+      },
+      {
+        "name": "go-selector 28",
+        "key": "blendlabs___go-selector",
+        "description": ""
+      },
+      {
+        "name": "PPGo_ApiAdmin 19",
+        "key": "george518___PPGo_ApiAdmin",
+        "description": ""
+      },
+      {
+        "name": "manim 18",
+        "key": "3b1b___manim",
+        "description": ""
+      },
+      {
+        "name": "brain 18",
+        "key": "brain-labs___brain",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "2017-10-14",
+    "key": "2017-10-14",
+    "list": [
+      {
+        "name": "tech-interview-handbook 1095",
+        "key": "yangshun___tech-interview-handbook",
+        "description":
+          "💯 Algorithms, front end and behavioral content for rocking your coding interview 🆕 Interview Cheatsheet! 🆕 "
+      },
+      {
+        "name": "XcodeCleaner 204",
+        "key": "waylybaye___XcodeCleaner",
+        "description": "Cleaner for Xcode.app built with react-native-macos"
+      },
+      {
+        "name": "go-http-tunnel 131",
+        "key": "mmatczuk___go-http-tunnel",
+        "description":
+          "Secure tunnels to localhost - open source ngrok alternative"
+      },
+      {
+        "name": "Linux-Tutorial 112",
+        "key": "judasn___Linux-Tutorial",
+        "description": "《Java 程序员眼中的 Linux》"
+      },
+      {
+        "name": "speed-test 105",
+        "key": "sindresorhus___speed-test",
+        "description":
+          "Test your internet connection speed and ping using speedtest.net from the CLI"
+      },
+      {
+        "name": "linuxatomupdater 102",
+        "key": "jordanhillis___linuxatomupdater",
+        "description":
+          "Allows the Atom Editor on Linux to be updated automatically either on a scheduled basis or with a simple command."
+      },
+      {
+        "name": "ApsaraCache 85",
+        "key": "alibaba___ApsaraCache",
+        "description":
+          "ApsaraCache is a Redis branch originated from Alibaba Group. "
+      },
+      {
+        "name": "vim-galore 84",
+        "key": "mhinz___vim-galore",
+        "description": ":mortar_board: All things Vim!"
+      },
+      {
+        "name": "free-programming-books-zh_CN 182",
+        "key": "justjavac___free-programming-books-zh_CN",
+        "description": ":books: 免费的计算机编程类中文书籍，欢迎投稿"
+      },
+      {
+        "name": "p3c 81",
+        "key": "alibaba___p3c",
+        "description":
+          "Alibaba Java Coding Guidelines pmd implements and IDE plugin"
+      },
+      {
+        "name": "recompiler 57",
+        "key": "rexdex___recompiler",
+        "description": "Xbox360 -> Windows executable converter"
+      },
+      {
+        "name": "napajs 49",
+        "key": "Microsoft___napajs",
+        "description": "Napa.js: a multi-threaded JavaScript runtime"
+      },
+      {
+        "name": "Recaf 47",
+        "key": "Col-E___Recaf",
+        "description": "A modern Java bytecode editor"
+      },
+      {
+        "name": "Coloring-greyscale-images-in-Keras 47",
+        "key": "emilwallner___Coloring-greyscale-images-in-Keras",
+        "description": "Coloring B&W portraits with neural networks."
+      },
+      {
+        "name": "litter 115",
+        "key": "sanity-io___litter",
+        "description":
+          "Litter is a pretty printer library for Go data structures to aid in debugging and testing."
+      },
+      {
+        "name": "gproxy 43",
+        "key": "uulucky___gproxy",
+        "description": ""
+      },
+      {
+        "name": "livepython 92",
+        "key": "agermanidis___livepython",
+        "description": ""
+      },
+      {
+        "name": "sloth 40",
+        "key": "coolcooldee___sloth",
+        "description": ""
+      },
+      {
+        "name": "nlp_tasks 344",
+        "key": "Kyubyong___nlp_tasks",
+        "description": ""
+      },
+      {
+        "name": "SmallerC 107",
+        "key": "alexfru___SmallerC",
+        "description": ""
+      },
+      {
+        "name": "yapi 36",
+        "key": "YMFE___yapi",
+        "description": ""
+      },
+      {
+        "name": "webaudio-modem 35",
+        "key": "martme___webaudio-modem",
+        "description": ""
+      },
+      {
+        "name": "GANotebooks 35",
+        "key": "tjwei___GANotebooks",
+        "description": ""
+      },
+      {
+        "name": "openmessaging-java 34",
+        "key": "openmessaging___openmessaging-java",
+        "description": ""
+      },
+      {
+        "name": "holodec 43",
+        "key": "Cararasu___holodec",
+        "description": ""
+      },
+      {
+        "name": "glot 25",
+        "key": "Arafatk___glot",
+        "description": ""
+      },
+      {
+        "name": "UIImageHEIC 24",
+        "key": "timonus___UIImageHEIC",
+        "description": ""
+      },
+      {
+        "name": "lqip-loader 23",
+        "key": "zouhir___lqip-loader",
+        "description": ""
+      },
+      {
+        "name": "SatelliteMenu 23",
+        "key": "chenshouyin___SatelliteMenu",
+        "description": ""
+      },
+      {
+        "name": "fzf 106",
+        "key": "junegunn___fzf",
+        "description": ""
+      },
+      {
+        "name": "gists 54",
+        "key": "pavopax___gists",
+        "description": ""
+      },
+      {
+        "name": "Playnite 22",
+        "key": "JosefNemec___Playnite",
+        "description": ""
+      },
+      {
+        "name": "hackclub 22",
+        "key": "hackclub___hackclub",
+        "description": ""
+      },
+      {
+        "name": "shield 38",
+        "key": "clarkeash___shield",
+        "description": ""
+      },
+      {
+        "name": "webpackmonitor 73",
+        "key": "webpackmonitor___webpackmonitor",
+        "description": ""
+      },
+      {
+        "name": "awesome-ocr 20",
+        "key": "kba___awesome-ocr",
+        "description": ""
+      },
+      {
+        "name": "jni-encrypt 20",
+        "key": "chenshouyin___jni-encrypt",
+        "description": ""
+      },
+      {
+        "name": "google-in-docker 19",
+        "key": "ihciah___google-in-docker",
+        "description": ""
+      },
+      {
+        "name": "CustomProgress 19",
+        "key": "chenshouyin___CustomProgress",
+        "description": ""
+      },
+      {
+        "name": "hacktoberfest 18",
+        "key": "AliceWonderland___hacktoberfest",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "2017-10-13",
+    "key": "2017-10-13",
+    "list": [
+      {
+        "name": "OpenRCT2 1120",
+        "key": "OpenRCT2___OpenRCT2",
+        "description":
+          "An open source re-implementation of RollerCoaster Tycoon 2 🎢"
+      },
+      {
+        "name": "godot 385",
+        "key": "godotengine___godot",
+        "description": "Godot Engine – Multi-platform 2D and 3D game engine"
+      },
+      {
+        "name": "nlp_tasks 243",
+        "key": "Kyubyong___nlp_tasks",
+        "description": "Natural Language Processing Tasks and References"
+      },
+      {
+        "name": "vue-model 294",
+        "key": "aarondfrancis___vue-model",
+        "description": "Model component for Vue.js"
+      },
+      {
+        "name": "TerrariaClone 409",
+        "key": "raxod502___TerrariaClone",
+        "description": "🔥 An incomprehensible hellscape of spaghetti code."
+      },
+      {
+        "name": "git-pushdemont 294",
+        "key": "voghDev___git-pushdemont",
+        "description":
+          "Custom Git command that marks your commits as pushed, then reverts the process after 8 seconds"
+      },
+      {
+        "name": "ChrysaLisp 183",
+        "key": "vygr___ChrysaLisp",
+        "description":
+          "Parallel OS, with GUI, Terminal, OO Assembler, Class libraries, C-Script compiler, Lisp interpreter and more..."
+      },
+      {
+        "name": "rev-proxy-grapher 161",
+        "key": "mricon___rev-proxy-grapher",
+        "description": "Reverse proxy grapher"
+      },
+      {
+        "name": "ViewAnimator 185",
+        "key": "marcosgriselli___ViewAnimator",
+        "description": "ViewAnimator brings your UI to life with just one line"
+      },
+      {
+        "name": "passionfruit 147",
+        "key": "chaitin___passionfruit",
+        "description": "[WIP] Crappy iOS app analyzer"
+      },
+      {
+        "name": "React-Sight 260",
+        "key": "React-Sight___React-Sight",
+        "description":
+          "Visualization tool for React, with support for Fiber, Router (v4), and Redux"
+      },
+      {
+        "name": "maptalks.js 174",
+        "key": "maptalks___maptalks.js",
+        "description":
+          "A light JavaScript library to create integrated 2D/3D maps."
+      },
+      {
+        "name": "OkSocket 127",
+        "key": "xuuhaoo___OkSocket",
+        "description": "An blocking socket client for Android applications."
+      },
+      {
+        "name": "mini-tetris 118",
+        "key": "veu___mini-tetris",
+        "description": "Tetris in 512b"
+      },
+      {
+        "name": "hpat 113",
+        "key": "IntelLabs___hpat",
+        "description": "A compiler-based big data framework in Python"
+      },
+      {
+        "name": "pytorch-a2c-ppo-acktr 105",
+        "key": "ikostrikov___pytorch-a2c-ppo-acktr",
+        "description": ""
+      },
+      {
+        "name": "gluon-api 563",
+        "key": "gluon-api___gluon-api",
+        "description": ""
+      },
+      {
+        "name": "Common.Utility 406",
+        "key": "Jimmey-Jiang___Common.Utility",
+        "description": ""
+      },
+      {
+        "name": "prosemirror 86",
+        "key": "ProseMirror___prosemirror",
+        "description": ""
+      },
+      {
+        "name": "goroutine-inspect 84",
+        "key": "linuxerwang___goroutine-inspect",
+        "description": ""
+      },
+      {
+        "name": "ShadowBrokersFiles 75",
+        "key": "x0rz___ShadowBrokersFiles",
+        "description": ""
+      },
+      {
+        "name": "ImagineEngine 304",
+        "key": "JohnSundell___ImagineEngine",
+        "description": ""
+      },
+      {
+        "name": "game-programmer 68",
+        "key": "miloyip___game-programmer",
+        "description": ""
+      },
+      {
+        "name": "qutebrowser 106",
+        "key": "qutebrowser___qutebrowser",
+        "description": ""
+      },
+      {
+        "name": "learn-react-in-korean 64",
+        "key": "reactkr___learn-react-in-korean",
+        "description": ""
+      },
+      {
+        "name": "ThreatHunter-Playbook 62",
+        "key": "Cyb3rWard0g___ThreatHunter-Playbook",
+        "description": ""
+      },
+      {
+        "name": "SongSim 62",
+        "key": "colinmorris___SongSim",
+        "description": ""
+      },
+      {
+        "name": "Closures 133",
+        "key": "vhesener___Closures",
+        "description": ""
+      },
+      {
+        "name": "beaker 59",
+        "key": "Rotonde___beaker",
+        "description": ""
+      },
+      {
+        "name": "zapret 58",
+        "key": "bol-van___zapret",
+        "description": ""
+      },
+      {
+        "name": "SmallerC 57",
+        "key": "alexfru___SmallerC",
+        "description": ""
+      },
+      {
+        "name": "reactos 57",
+        "key": "reactos___reactos",
+        "description": ""
+      },
+      {
+        "name": "AndroidInterview-Q-A 56",
+        "key": "JackyAndroid___AndroidInterview-Q-A",
+        "description": ""
+      },
+      {
+        "name": "LearningNotes 75",
+        "key": "francistao___LearningNotes",
+        "description": ""
+      },
+      {
+        "name": "gophers 51",
+        "key": "egonelbre___gophers",
+        "description": ""
+      },
+      {
+        "name": "fzf 72",
+        "key": "junegunn___fzf",
+        "description": ""
+      },
+      {
+        "name": "tridactyl 47",
+        "key": "cmcaine___tridactyl",
+        "description": ""
+      },
+      {
+        "name": "haskell-compiler 46",
+        "key": "Marwes___haskell-compiler",
+        "description": ""
+      },
+      {
+        "name": "laravel-page-speed 46",
+        "key": "renatomarinho___laravel-page-speed",
+        "description": ""
+      },
+      {
+        "name": "webpackmonitor 45",
+        "key": "webpackmonitor___webpackmonitor",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "2017-10-12",
+    "key": "2017-10-12",
+    "list": [
+      {
+        "name": "AlgoWiki 803",
+        "key": "vicky002___AlgoWiki",
+        "description":
+          "Repository which contains links and resources on different topics of Computer Science."
+      },
+      {
+        "name": "gluon-api 283",
+        "key": "gluon-api___gluon-api",
+        "description":
+          "A clear, concise, simple yet powerful and efficient API for deep learning."
+      },
+      {
+        "name": "TelegramSwift 396",
+        "key": "overtake___TelegramSwift",
+        "description": "Source code of Telegram for macos on Swift 4.0"
+      },
+      {
+        "name": "ChanceyNN 231",
+        "key": "pshah123___ChanceyNN",
+        "description": "Predict college admissions outcome using AI"
+      },
+      {
+        "name": "Common.Utility 203",
+        "key": "Jimmey-Jiang___Common.Utility",
+        "description": "比较全面的c#帮助类"
+      },
+      {
+        "name": "Awesome-Hacking-Resources 653",
+        "key": "vitalysim___Awesome-Hacking-Resources",
+        "description":
+          "A collection of hacking / penetration testing resources to make you better!"
+      },
+      {
+        "name": "ImagineEngine 155",
+        "key": "JohnSundell___ImagineEngine",
+        "description":
+          "A project to create a blazingly fast Swift game engine that is a joy to use 🚀"
+      },
+      {
+        "name": "weex-ui 171",
+        "key": "alibaba___weex-ui",
+        "description":
+          "🏄  A rich interaction, lightweight, high performance UI library based on Weex."
+      },
+      {
+        "name": "magic-the-gifening 125",
+        "key": "minimaxir___magic-the-gifening",
+        "description":
+          "A Twitter bot which tweets Magic: the Gathering cards with appropriate GIFs superimposed onto them."
+      },
+      {
+        "name": "OpenRCT2 120",
+        "key": "OpenRCT2___OpenRCT2",
+        "description":
+          "An open source re-implementation of RollerCoaster Tycoon 2 🎢"
+      },
+      {
+        "name": "atomic-red-team 131",
+        "key": "redcanaryco___atomic-red-team",
+        "description": "Small and highly portable detection tests. "
+      },
+      {
+        "name": "TerrariaClone 92",
+        "key": "raxod502___TerrariaClone",
+        "description": "🔥 An incomprehensible hellscape of spaghetti code."
+      },
+      {
+        "name": "wallaroo 79",
+        "key": "WallarooLabs___wallaroo",
+        "description": "Ultrafast and elastic data processing"
+      },
+      {
+        "name": "design-blocks 64",
+        "key": "froala___design-blocks",
+        "description":
+          "A set of 170+ Bootstrap based design blocks ready to be used to create clean modern websites."
+      },
+      {
+        "name": "git-bomb 63",
+        "key": "Katee___git-bomb",
+        "description": "A (nearly) uncloneable repo"
+      },
+      {
+        "name": "React-Sight 62",
+        "key": "React-Sight___React-Sight",
+        "description": ""
+      },
+      {
+        "name": "upx 55",
+        "key": "upx___upx",
+        "description": ""
+      },
+      {
+        "name": "React-2048-game 74",
+        "key": "devrsi0n___React-2048-game",
+        "description": ""
+      },
+      {
+        "name": "blueprint 51",
+        "key": "palantir___blueprint",
+        "description": ""
+      },
+      {
+        "name": "mixphp 67",
+        "key": "mixstart___mixphp",
+        "description": ""
+      },
+      {
+        "name": "luminoth 208",
+        "key": "tryolabs___luminoth",
+        "description": ""
+      },
+      {
+        "name": "awesome-computer-vision 46",
+        "key": "jbhuang0604___awesome-computer-vision",
+        "description": ""
+      },
+      {
+        "name": "pleasetakecareofmyplant 62",
+        "key": "tylerjaywood___pleasetakecareofmyplant",
+        "description": ""
+      },
+      {
+        "name": "git-pushdemont 44",
+        "key": "voghDev___git-pushdemont",
+        "description": ""
+      },
+      {
+        "name": "storm 43",
+        "key": "emre___storm",
+        "description": ""
+      },
+      {
+        "name": "reports_kit 43",
+        "key": "tombenner___reports_kit",
+        "description": ""
+      },
+      {
+        "name": "vue-model 42",
+        "key": "aarondfrancis___vue-model",
+        "description": ""
+      },
+      {
+        "name": "OkLibDemo 42",
+        "key": "huangweicai___OkLibDemo",
+        "description": ""
+      },
+      {
+        "name": "Grafeas 41",
+        "key": "Grafeas___Grafeas",
+        "description": ""
+      },
+      {
+        "name": "DependencyCheck 40",
+        "key": "jeremylong___DependencyCheck",
+        "description": ""
+      },
+      {
+        "name": "Python4ScientificComputing_Fundamentals 40",
+        "key": "bnajafi___Python4ScientificComputing_Fundamentals",
+        "description": ""
+      },
+      {
+        "name": "ant-design 82",
+        "key": "ant-design___ant-design",
+        "description": ""
+      },
+      {
+        "name": "cstore_fdw 39",
+        "key": "citusdata___cstore_fdw",
+        "description": ""
+      },
+      {
+        "name": "best-resume-ever 138",
+        "key": "salomonelli___best-resume-ever",
+        "description": ""
+      },
+      {
+        "name": "vscode 187",
+        "key": "Microsoft___vscode",
+        "description": ""
+      },
+      {
+        "name": "react-loadable 52",
+        "key": "thejameskyle___react-loadable",
+        "description": ""
+      },
+      {
+        "name": "todo-subsecond 38",
+        "key": "subsecondtdd___todo-subsecond",
+        "description": ""
+      },
+      {
+        "name": "android_interview 38",
+        "key": "LRH1993___android_interview",
+        "description": ""
+      },
+      {
+        "name": "awesome-web-security 36",
+        "key": "qazbnm456___awesome-web-security",
+        "description": ""
+      },
+      {
+        "name": "data 36",
+        "key": "GoogleTrends___data",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "2017-10-11",
+    "key": "2017-10-11",
+    "list": [
+      {
+        "name": "mobingi 292",
+        "key": "mobingi___mobingi",
+        "description": "Cloud-Native Application Lifecycle Management (ALM)"
+      },
+      {
+        "name": "Awesome-Hacking-Resources 224",
+        "key": "vitalysim___Awesome-Hacking-Resources",
+        "description":
+          "A collection of hacking / penetration testing resources to make you better!"
+      },
+      {
+        "name": "luminoth 120",
+        "key": "tryolabs___luminoth",
+        "description": "Deep Learning toolkit for Computer Vision"
+      },
+      {
+        "name": "weibo-dogs-killer 100",
+        "key": "overtrue___weibo-dogs-killer",
+        "description": "一段屏蔽 HWB（微博监督员） 的 js 小脚本"
+      },
+      {
+        "name": "graphcool 98",
+        "key": "graphcool___graphcool",
+        "description":
+          "⚡️ Framework to develop & deploy serverless GraphQL backends"
+      },
+      {
+        "name": "awx 119",
+        "key": "ansible___awx",
+        "description": "AWX Project"
+      },
+      {
+        "name": "litter 97",
+        "key": "sanity-io___litter",
+        "description":
+          "Litter is a pretty printer library for Go data structures to aid in debugging and testing."
+      },
+      {
+        "name": "firefly-proxy 122",
+        "key": "yinghuocho___firefly-proxy",
+        "description":
+          "A proxy software to help circumventing the Great Firewall."
+      },
+      {
+        "name": "struts-scan 93",
+        "key": "Lucifer1993___struts-scan",
+        "description": "struts2漏洞全版本检测和利用工具"
+      },
+      {
+        "name": "Ribble 92",
+        "key": "armcha___Ribble",
+        "description":
+          "Simple Dribbble Client using Dribbble API, fully written in Kotlin  😱 ❤️ "
+      },
+      {
+        "name": "awesome-open-source-supporters 84",
+        "key": "zachflower___awesome-open-source-supporters",
+        "description":
+          "⭐️ A curated list of companies that offer their services for free to Open Source projects"
+      },
+      {
+        "name": "Awesome-Deep-Learning-Resources 83",
+        "key": "guillaume-chevalier___Awesome-Deep-Learning-Resources",
+        "description":
+          "Rough list of my favorite deep learning resources, useful for revisiting topics or for reference. I have got through all of the content listed there, carefully."
+      },
+      {
+        "name": "lottery.js 77",
+        "key": "meetmore___lottery.js",
+        "description": "🎲  A simple javascript lottery app"
+      },
+      {
+        "name": "send 75",
+        "key": "mozilla___send",
+        "description": "File Sharing Experiment"
+      },
+      {
+        "name": "metabase 75",
+        "key": "metabase___metabase",
+        "description":
+          "The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:"
+      },
+      {
+        "name": "awesome-learn-datascience 73",
+        "key": "siboehm___awesome-learn-datascience",
+        "description": ""
+      },
+      {
+        "name": "cypress 115",
+        "key": "cypress-io___cypress",
+        "description": ""
+      },
+      {
+        "name": "OpenCV-Playing-Card-Detector 59",
+        "key": "EdjeElectronics___OpenCV-Playing-Card-Detector",
+        "description": ""
+      },
+      {
+        "name": "awesome-diversity 59",
+        "key": "folkswhocode___awesome-diversity",
+        "description": ""
+      },
+      {
+        "name": "rat 303",
+        "key": "ericfreese___rat",
+        "description": ""
+      },
+      {
+        "name": "lightsocks 57",
+        "key": "gwuhaolin___lightsocks",
+        "description": ""
+      },
+      {
+        "name": "blog 56",
+        "key": "digoal___blog",
+        "description": ""
+      },
+      {
+        "name": "style2paints 69",
+        "key": "lllyasviel___style2paints",
+        "description": ""
+      },
+      {
+        "name": "bootstrap-aspnetcore-starter 51",
+        "key": "DevExpress___bootstrap-aspnetcore-starter",
+        "description": ""
+      },
+      {
+        "name": "chips-input-layout 68",
+        "key": "tylersuehr7___chips-input-layout",
+        "description": ""
+      },
+      {
+        "name": "forum 294",
+        "key": "getlantern___forum",
+        "description": ""
+      },
+      {
+        "name": "awesome-react-native 50",
+        "key": "wabg___awesome-react-native",
+        "description": ""
+      },
+      {
+        "name": "react-image-palette 49",
+        "key": "FormidableLabs___react-image-palette",
+        "description": ""
+      },
+      {
+        "name": "churn-php 48",
+        "key": "bmitch___churn-php",
+        "description": ""
+      },
+      {
+        "name": "GT 48",
+        "key": "Tencent___GT",
+        "description": ""
+      },
+      {
+        "name": "sqlcheck 47",
+        "key": "jarulraj___sqlcheck",
+        "description": ""
+      },
+      {
+        "name": "abseil-cpp 128",
+        "key": "abseil___abseil-cpp",
+        "description": ""
+      },
+      {
+        "name": "anime 78",
+        "key": "juliangarnier___anime",
+        "description": ""
+      },
+      {
+        "name": "ApkGolf 115",
+        "key": "fractalwrench___ApkGolf",
+        "description": ""
+      },
+      {
+        "name": "pose 42",
+        "key": "tonerdo___pose",
+        "description": ""
+      },
+      {
+        "name": "HttpFrame 42",
+        "key": "iceuncle___HttpFrame",
+        "description": ""
+      },
+      {
+        "name": "nginx-docs 42",
+        "key": "DocsHome___nginx-docs",
+        "description": ""
+      },
+      {
+        "name": "XVim2 42",
+        "key": "XVimProject___XVim2",
+        "description": ""
+      },
+      {
+        "name": "best-resume-ever 79",
+        "key": "salomonelli___best-resume-ever",
+        "description": ""
+      },
+      {
+        "name": "multiagent-competition 40",
+        "key": "openai___multiagent-competition",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "2017-10-10",
+    "key": "2017-10-10",
+    "list": [
+      {
+        "name": "cameradar 318",
+        "key": "EtixLabs___cameradar",
+        "description": "Cameradar hacks its way into RTSP CCTV cameras"
+      },
+      {
+        "name": "rat 178",
+        "key": "ericfreese___rat",
+        "description":
+          "Compose shell commands to build interactive terminal applications"
+      },
+      {
+        "name": "AthenaX 214",
+        "key": "uber___AthenaX",
+        "description": "SQL-based streaming analytics platform at scale"
+      },
+      {
+        "name": "awesome-remote-job 118",
+        "key": "lukasz-madon___awesome-remote-job",
+        "description":
+          "A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python"
+      },
+      {
+        "name": "landing-pages-resources 100",
+        "key": "eibrahim___landing-pages-resources",
+        "description":
+          "Awesome List of Landing Pages and Other Marketing Resources "
+      },
+      {
+        "name": "pytorch-qrnn 191",
+        "key": "salesforce___pytorch-qrnn",
+        "description":
+          "PyTorch implementation of the Quasi-Recurrent Neural Network - up to 16 times faster than NVIDIA's cuDNN LSTM"
+      },
+      {
+        "name": "mockoon 89",
+        "key": "255kb___mockoon",
+        "description": "Mock servers in seconds. "
+      },
+      {
+        "name": "react-beautiful-dnd 165",
+        "key": "atlassian___react-beautiful-dnd",
+        "description":
+          "Beautiful, accessible drag and drop for lists with React.js"
+      },
+      {
+        "name": "steal.password 69",
+        "key": "KrauseFx___steal.password",
+        "description": "Easily get the user's Apple ID password, just by asking"
+      },
+      {
+        "name": "pywonderland 65",
+        "key": "neozhaoliang___pywonderland",
+        "description":
+          "Render beautiful images or animate interesting algorithms in mathematics with Python."
+      },
+      {
+        "name": "DockerCheatSheet 65",
+        "key": "eon01___DockerCheatSheet",
+        "description": "🐋 Docker Cheat Sheet 🐋"
+      },
+      {
+        "name": "ApkGolf 57",
+        "key": "fractalwrench___ApkGolf",
+        "description": "The smallest Android APK in the world"
+      },
+      {
+        "name": "SSHServer 55",
+        "key": "TyrenDe___SSHServer",
+        "description":
+          "This is a tutorial on how to build a basic SSH Server in C#, but you are welcome to try following in any language."
+      },
+      {
+        "name": "cherow 54",
+        "key": "cherow___cherow",
+        "description": "A very fast, Typescript-based ECMAScript parser"
+      },
+      {
+        "name": "jupyter2slides 54",
+        "key": "datitran___jupyter2slides",
+        "description":
+          "Cloud Native Presentation Slides with Jupyter Notebook + Reveal.js"
+      },
+      {
+        "name": "react 169",
+        "key": "facebook___react",
+        "description": ""
+      },
+      {
+        "name": "Rocket.Chat 68",
+        "key": "RocketChat___Rocket.Chat",
+        "description": ""
+      },
+      {
+        "name": "httpie 99",
+        "key": "jakubroztocil___httpie",
+        "description": ""
+      },
+      {
+        "name": "WeiboBlackList 48",
+        "key": "yu961549745___WeiboBlackList",
+        "description": ""
+      },
+      {
+        "name": "MyLinearLayout 48",
+        "key": "youngsoft___MyLinearLayout",
+        "description": ""
+      },
+      {
+        "name": "ualbertabot 47",
+        "key": "davechurchill___ualbertabot",
+        "description": ""
+      },
+      {
+        "name": "play 44",
+        "key": "a8m___play",
+        "description": ""
+      },
+      {
+        "name": "DDComponentForAndroid 62",
+        "key": "luojilab___DDComponentForAndroid",
+        "description": ""
+      },
+      {
+        "name": "osprey 55",
+        "key": "TophantTechnology___osprey",
+        "description": ""
+      },
+      {
+        "name": "better-scroll 58",
+        "key": "ustbhuangyi___better-scroll",
+        "description": ""
+      },
+      {
+        "name": "goflyway 41",
+        "key": "coyove___goflyway",
+        "description": ""
+      },
+      {
+        "name": "cypress 39",
+        "key": "cypress-io___cypress",
+        "description": ""
+      },
+      {
+        "name": "news_feed 39",
+        "key": "NolanZhao___news_feed",
+        "description": ""
+      },
+      {
+        "name": "keycastr 38",
+        "key": "keycastr___keycastr",
+        "description": ""
+      },
+      {
+        "name": "redux-zero 38",
+        "key": "concretesolutions___redux-zero",
+        "description": ""
+      },
+      {
+        "name": "basket.js 37",
+        "key": "addyosmani___basket.js",
+        "description": ""
+      },
+      {
+        "name": "browser-compat-data 64",
+        "key": "mdn___browser-compat-data",
+        "description": ""
+      },
+      {
+        "name": "AndroidComponent 36",
+        "key": "mqzhangw___AndroidComponent",
+        "description": ""
+      },
+      {
+        "name": "ecmascript-do-generator 36",
+        "key": "sebmarkbage___ecmascript-do-generator",
+        "description": ""
+      },
+      {
+        "name": "react-native-firebase 36",
+        "key": "invertase___react-native-firebase",
+        "description": ""
+      },
+      {
+        "name": "nx 36",
+        "key": "nrwl___nx",
+        "description": ""
+      },
+      {
+        "name": "slidetoact 35",
+        "key": "cortinico___slidetoact",
+        "description": ""
+      },
+      {
+        "name": "SwiftyUI 35",
+        "key": "haoking___SwiftyUI",
+        "description": ""
+      },
+      {
+        "name": "bolt 34",
+        "key": "puppetlabs___bolt",
+        "description": ""
+      },
+      {
+        "name": "lantern 229",
+        "key": "getlantern___lantern",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "2017-10-09",
+    "key": "2017-10-09",
+    "list": [
+      {
+        "name": "microservices-from-design-to-deployment-chinese 291",
+        "key": "oopsguy___microservices-from-design-to-deployment-chinese",
+        "description":
+          "Microservices from Design to Deployment 中文版 — 《微服务：从设计到部署》"
+      },
+      {
+        "name": "fd 967",
+        "key": "sharkdp___fd",
+        "description": "A simple, fast and user-friendly alternative to find."
+      },
+      {
+        "name": "doitlive 201",
+        "key": "sloria___doitlive",
+        "description": "Because sometimes you need to do it live"
+      },
+      {
+        "name": "ScalingLayout 315",
+        "key": "iammert___ScalingLayout",
+        "description":
+          "With Scaling Layout scale your layout on user interaction."
+      },
+      {
+        "name": "Closures 123",
+        "key": "vhesener___Closures",
+        "description": "Swifty closures for UIKit and Foundation"
+      },
+      {
+        "name": "min 120",
+        "key": "minbrowser___min",
+        "description": "A smarter, faster web browser"
+      },
+      {
+        "name": "rclayout 176",
+        "key": "GcsSloop___rclayout",
+        "description": "Android通用圆角布局。"
+      },
+      {
+        "name": "lantern 160",
+        "key": "getlantern___lantern",
+        "description":
+          "🔴Lantern Latest Download https://github.com/getlantern/lantern/releases/tag/latest 🔴蓝灯最新版本下载 https://github.com/getlantern/forum/issues/833 🔴 "
+      },
+      {
+        "name": "plexus-interop 100",
+        "key": "symphonyoss___plexus-interop",
+        "description":
+          "Plexus-interop open source project hosted by the Symphony Software Foundation"
+      },
+      {
+        "name": "BulletinBoard 263",
+        "key": "alexaubry___BulletinBoard",
+        "description": "Generate and Display Bottom Card Interfaces on iOS"
+      },
+      {
+        "name": "abseil-cpp 125",
+        "key": "abseil___abseil-cpp",
+        "description": "Abseil Common Libraries (C++)"
+      },
+      {
+        "name": "forum 139",
+        "key": "getlantern___forum",
+        "description": "蓝灯(Lantern)官方论坛"
+      },
+      {
+        "name": "PyTorchZeroToAll 247",
+        "key": "hunkim___PyTorchZeroToAll",
+        "description": "Simple PyTorch Tutorials Zero to ALL!"
+      },
+      {
+        "name": "vue-element-admin 97",
+        "key": "PanJiaChen___vue-element-admin",
+        "description":
+          "vue2.0 admin / a management system template http://panjiachen.github.io/vue-element-admin"
+      },
+      {
+        "name": "caffe2 99",
+        "key": "caffe2___caffe2",
+        "description":
+          "Caffe2 is a lightweight, modular, and scalable deep learning framework."
+      },
+      {
+        "name": "react-static 470",
+        "key": "nozzle___react-static",
+        "description": ""
+      },
+      {
+        "name": "android-job 145",
+        "key": "evernote___android-job",
+        "description": ""
+      },
+      {
+        "name": "draggable 234",
+        "key": "Shopify___draggable",
+        "description": ""
+      },
+      {
+        "name": "mailproxy 73",
+        "key": "kz26___mailproxy",
+        "description": ""
+      },
+      {
+        "name": "TorProxy 72",
+        "key": "r-a-w___TorProxy",
+        "description": ""
+      },
+      {
+        "name": "Kakao 72",
+        "key": "agoda-com___Kakao",
+        "description": ""
+      },
+      {
+        "name": "url-to-pdf-api 418",
+        "key": "alvarcarto___url-to-pdf-api",
+        "description": ""
+      },
+      {
+        "name": "livepython 340",
+        "key": "agermanidis___livepython",
+        "description": ""
+      },
+      {
+        "name": "vue 144",
+        "key": "vuejs___vue",
+        "description": ""
+      },
+      {
+        "name": "mapbox-navigation-ios 67",
+        "key": "mapbox___mapbox-navigation-ios",
+        "description": ""
+      },
+      {
+        "name": "tech-interview-handbook 250",
+        "key": "yangshun___tech-interview-handbook",
+        "description": ""
+      },
+      {
+        "name": "php-spx 63",
+        "key": "NoiseByNorthwest___php-spx",
+        "description": ""
+      },
+      {
+        "name": "pytorch-qrnn 59",
+        "key": "salesforce___pytorch-qrnn",
+        "description": ""
+      },
+      {
+        "name": "CVE-2017-12617 59",
+        "key": "cyberheartmi9___CVE-2017-12617",
+        "description": ""
+      },
+      {
+        "name": "wow 99",
+        "key": "gernest___wow",
+        "description": ""
+      },
+      {
+        "name": "SwiftInstagram 74",
+        "key": "AnderGoig___SwiftInstagram",
+        "description": ""
+      },
+      {
+        "name": "zhihu-rxjava-meetup 75",
+        "key": "zhihu___zhihu-rxjava-meetup",
+        "description": ""
+      },
+      {
+        "name": "modern-js-cheatsheet 241",
+        "key": "mbeaudru___modern-js-cheatsheet",
+        "description": ""
+      },
+      {
+        "name": "cameradar 54",
+        "key": "EtixLabs___cameradar",
+        "description": ""
+      },
+      {
+        "name": "typeorm 54",
+        "key": "typeorm___typeorm",
+        "description": ""
+      },
+      {
+        "name": "element 67",
+        "key": "ElemeFE___element",
+        "description": ""
+      },
+      {
+        "name": "date 53",
+        "key": "jenssegers___date",
+        "description": ""
+      },
+      {
+        "name": "AthenaX 52",
+        "key": "uber___AthenaX",
+        "description": ""
+      },
+      {
+        "name": "hybridauth 51",
+        "key": "hybridauth___hybridauth",
+        "description": ""
+      },
+      {
+        "name": "tably 51",
+        "key": "narimiran___tably",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "2017-10-08",
+    "key": "2017-10-08",
+    "list": [
+      {
+        "name": "fd 300",
+        "key": "sharkdp___fd",
+        "description": "A simple, fast and user-friendly alternative to find."
+      },
+      {
+        "name": "facets 261",
+        "key": "PAIR-code___facets",
+        "description": "Visualizations for machine learning datasets"
+      },
+      {
+        "name": "core-js 133",
+        "key": "zloirock___core-js",
+        "description": "Standard Library"
+      },
+      {
+        "name": "livepython 184",
+        "key": "agermanidis___livepython",
+        "description": "Visually trace Python code in real-time."
+      },
+      {
+        "name": "PyTorchZeroToAll 102",
+        "key": "hunkim___PyTorchZeroToAll",
+        "description": "Simple PyTorch Tutorials Zero to ALL!"
+      },
+      {
+        "name": "dll 88",
+        "key": "wichtounet___dll",
+        "description":
+          "Deep Learning Library (DLL) for C++ (ANNs, CNNs, RBMs, DBNs...)"
+      },
+      {
+        "name": "SymbolicAlgebra 61",
+        "key": "ibluesun___SymbolicAlgebra",
+        "description": "Symbolic Algebraic Library written entirely in C# "
+      },
+      {
+        "name": "laravel-stats 57",
+        "key": "stefanzweifel___laravel-stats",
+        "description": "Get insights about your Laravel Project"
+      },
+      {
+        "name": "cosmos 145",
+        "key": "OpenGenus___cosmos",
+        "description":
+          " [Show :heart: love by 🌟] Your personal library of every algorithm and data structure code that you will ever encounter"
+      },
+      {
+        "name": "99c 51",
+        "key": "cznic___99c",
+        "description":
+          "Command 99c is a c99 compiler targeting a virtual machine."
+      },
+      {
+        "name": "HNDesktop 53",
+        "key": "westoncb___HNDesktop",
+        "description":
+          "A Kotlin/Swing desktop application front-end for Hacker News"
+      },
+      {
+        "name": "darwin-xnu 145",
+        "key": "apple___darwin-xnu",
+        "description": "The Darwin Kernel (mirror)"
+      },
+      {
+        "name": "bigcache 39",
+        "key": "allegro___bigcache",
+        "description": "Efficient cache for gigabytes of data written in Go."
+      },
+      {
+        "name": "loopback-next 36",
+        "key": "strongloop___loopback-next",
+        "description":
+          "LoopBack makes it easy to build modern applications that require complex integrations."
+      },
+      {
+        "name": "spidy 33",
+        "key": "rivermont___spidy",
+        "description": "The simple, easy to use command line web crawler."
+      },
+      {
+        "name": "system-design-primer 49",
+        "key": "donnemartin___system-design-primer",
+        "description": ""
+      },
+      {
+        "name": "branchless-utf8 89",
+        "key": "skeeto___branchless-utf8",
+        "description": ""
+      },
+      {
+        "name": "micro-ci 52",
+        "key": "ocharles___micro-ci",
+        "description": ""
+      },
+      {
+        "name": "wow 31",
+        "key": "gernest___wow",
+        "description": ""
+      },
+      {
+        "name": "rza 38",
+        "key": "mikeal___rza",
+        "description": ""
+      },
+      {
+        "name": "nanolist 30",
+        "key": "eXeC64___nanolist",
+        "description": ""
+      },
+      {
+        "name": "Playnite 46",
+        "key": "JosefNemec___Playnite",
+        "description": ""
+      },
+      {
+        "name": "scope-capture 28",
+        "key": "vvvvalvalval___scope-capture",
+        "description": ""
+      },
+      {
+        "name": "awesome-tokyo 35",
+        "key": "nodejsjp___awesome-tokyo",
+        "description": ""
+      },
+      {
+        "name": "Hacktoberfest-Android 26",
+        "key": "naman14___Hacktoberfest-Android",
+        "description": ""
+      },
+      {
+        "name": "xsv 25",
+        "key": "BurntSushi___xsv",
+        "description": ""
+      },
+      {
+        "name": "movies-for-hackers 40",
+        "key": "k4m4___movies-for-hackers",
+        "description": ""
+      },
+      {
+        "name": "ci 24",
+        "key": "antonioribeiro___ci",
+        "description": ""
+      },
+      {
+        "name": "diagonal-imageview 24",
+        "key": "santalu___diagonal-imageview",
+        "description": ""
+      },
+      {
+        "name": "imageflow 81",
+        "key": "imazen___imageflow",
+        "description": ""
+      },
+      {
+        "name": "Rubel 23",
+        "key": "bmf-san___Rubel",
+        "description": ""
+      },
+      {
+        "name": "redux-connector 23",
+        "key": "juliankrispel___redux-connector",
+        "description": ""
+      },
+      {
+        "name": "probot 22",
+        "key": "probot___probot",
+        "description": ""
+      },
+      {
+        "name": "vue-router-demos 22",
+        "key": "vuejs___vue-router-demos",
+        "description": ""
+      },
+      {
+        "name": "best-resume-ever 48",
+        "key": "salomonelli___best-resume-ever",
+        "description": ""
+      },
+      {
+        "name": "micromodal 52",
+        "key": "ghosh___micromodal",
+        "description": ""
+      },
+      {
+        "name": "ctla 21",
+        "key": "moroneyt___ctla",
+        "description": ""
+      },
+      {
+        "name": "styled-loaders 21",
+        "key": "SaraVieira___styled-loaders",
+        "description": ""
+      },
+      {
+        "name": "postman 19",
+        "key": "rgamba___postman",
+        "description": ""
+      },
+      {
+        "name": "rr 19",
+        "key": "mozilla___rr",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "2017-10-07",
+    "key": "2017-10-07",
+    "list": [
+      {
+        "name": "fetlang 280",
+        "key": "Property404___fetlang",
+        "description": "Fetish-themed programming language"
+      },
+      {
+        "name": "vuera 208",
+        "key": "akxcv___vuera",
+        "description":
+          ":eyes: Vue in React, React in Vue. Seamless integration of the two. :dancers:"
+      },
+      {
+        "name": "distroless 223",
+        "key": "GoogleCloudPlatform___distroless",
+        "description":
+          "🥑  Language focused docker images, minus the operating system.  "
+      },
+      {
+        "name": "openebs 100",
+        "key": "openebs___openebs",
+        "description":
+          "OpenEBS is containerized block storage written in Go for cloud native and other environments w/ per container (or pod) QoS SLAs, tiering and replica policies across AZs and environments, and predictable and scalable performance.  "
+      },
+      {
+        "name": "ui-avatars 81",
+        "key": "LasseRafn___ui-avatars",
+        "description": null
+      },
+      {
+        "name": "GANotebooks 93",
+        "key": "tjwei___GANotebooks",
+        "description":
+          "wgan, wgan2(improved, gp), infogan, and dcgan implementation in  lasagne, keras, pytorch"
+      },
+      {
+        "name": "Organizr 114",
+        "key": "causefx___Organizr",
+        "description": "HTPC/Homelab Services Organizer - Written in PHP"
+      },
+      {
+        "name": "react-static 233",
+        "key": "nozzle___react-static",
+        "description": "⚛️ 🚀 A progressive static-site framework for React."
+      },
+      {
+        "name": "react-ethereum-dapp-example 83",
+        "key": "leopoldjoy___react-ethereum-dapp-example",
+        "description":
+          "A starter boilerplate for an Ethereum dapp using web3.js v1.0, truffle, react, and parity"
+      },
+      {
+        "name": "site-scan 48",
+        "key": "christopherwk210___site-scan",
+        "description":
+          "CLI for capturing website screenshots, powered by puppeteer."
+      },
+      {
+        "name": "Awesome-Red-Teaming 57",
+        "key": "yeyintminthuhtut___Awesome-Red-Teaming",
+        "description": "List of Awesome Red Teaming Resources"
+      },
+      {
+        "name": "avatar 47",
+        "key": "tobiaslins___avatar",
+        "description": "💎  Beautiful avatars as a microservice"
+      },
+      {
+        "name": "comments-remover-plugin 64",
+        "key": "jenkinsci___comments-remover-plugin",
+        "description":
+          "This plugin removes comments from source files for a number of programming languages. Required Python 3.6 on Jenkins server. A new build step is added: 'Invoke Comments Remover' which accepts files to process as input and creates uncommented version of them. "
+      },
+      {
+        "name": "nnvm 101",
+        "key": "dmlc___nnvm",
+        "description": "Bring deep learning to bare metal"
+      },
+      {
+        "name": "weex-ui 40",
+        "key": "alibaba___weex-ui",
+        "description":
+          "🏄  A rich interaction, lightweight, high performance UI library based on Weex."
+      },
+      {
+        "name": "Acronymy 62",
+        "key": "Singapore-Tech-Entrepreneurs___Acronymy",
+        "description": ""
+      },
+      {
+        "name": "imageflow 50",
+        "key": "imazen___imageflow",
+        "description": ""
+      },
+      {
+        "name": "branchless-utf8 47",
+        "key": "skeeto___branchless-utf8",
+        "description": ""
+      },
+      {
+        "name": "livepython 28",
+        "key": "agermanidis___livepython",
+        "description": ""
+      },
+      {
+        "name": "go-base 54",
+        "key": "dhax___go-base",
+        "description": ""
+      },
+      {
+        "name": "Sequence-Semantic-Embedding 24",
+        "key": "eBay___Sequence-Semantic-Embedding",
+        "description": ""
+      },
+      {
+        "name": "parameth 24",
+        "key": "maK-___parameth",
+        "description": ""
+      },
+      {
+        "name": "nEXT 101",
+        "key": "nEXT-Browser___nEXT",
+        "description": ""
+      },
+      {
+        "name": "softqlearning 23",
+        "key": "haarnoja___softqlearning",
+        "description": ""
+      },
+      {
+        "name": "GithubCloner 23",
+        "key": "mazen160___GithubCloner",
+        "description": ""
+      },
+      {
+        "name": "react-native-firebase 32",
+        "key": "invertase___react-native-firebase",
+        "description": ""
+      },
+      {
+        "name": "SwiftInstagram 22",
+        "key": "AnderGoig___SwiftInstagram",
+        "description": ""
+      },
+      {
+        "name": "facets 21",
+        "key": "PAIR-code___facets",
+        "description": ""
+      },
+      {
+        "name": "AirSim 20",
+        "key": "Microsoft___AirSim",
+        "description": ""
+      },
+      {
+        "name": "bitdock 20",
+        "key": "chrisunderdown___bitdock",
+        "description": ""
+      },
+      {
+        "name": "node-api-boilerplate 18",
+        "key": "talyssonoc___node-api-boilerplate",
+        "description": ""
+      },
+      {
+        "name": "micro-ci 17",
+        "key": "ocharles___micro-ci",
+        "description": ""
+      },
+      {
+        "name": "sparse-map 17",
+        "key": "Tessil___sparse-map",
+        "description": ""
+      },
+      {
+        "name": "hakchi2 50",
+        "key": "ClusterM___hakchi2",
+        "description": ""
+      },
+      {
+        "name": "opposite_of_a_bloom_filter 16",
+        "key": "jmhodges___opposite_of_a_bloom_filter",
+        "description": ""
+      },
+      {
+        "name": "bugbounty-cheatsheet 16",
+        "key": "EdOverflow___bugbounty-cheatsheet",
+        "description": ""
+      },
+      {
+        "name": "framework 16",
+        "key": "aurelia___framework",
+        "description": ""
+      },
+      {
+        "name": "kscope 15",
+        "key": "ortegaalfredo___kscope",
+        "description": ""
+      },
+      {
+        "name": "DeepLearningZeroToAll 15",
+        "key": "hunkim___DeepLearningZeroToAll",
+        "description": ""
+      },
+      {
+        "name": "cats-cheatsheets 15",
+        "key": "arosien___cats-cheatsheets",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "2017-10-06",
+    "key": "2017-10-06",
+    "list": [
+      {
+        "name": "dist-prog-book 577",
+        "key": "heathermiller___dist-prog-book",
+        "description": null
+      },
+      {
+        "name": "autorest 241",
+        "key": "Azure___autorest",
+        "description":
+          "OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, Go, Java, Node.js, TypeScript, Python, Ruby and PHP."
+      },
+      {
+        "name": "node 219",
+        "key": "nodejs___node",
+        "description":
+          "Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:"
+      },
+      {
+        "name": "react-static 122",
+        "key": "nozzle___react-static",
+        "description": "⚛️ 🚀 A progressive static-site framework for React."
+      },
+      {
+        "name": "BulletinBoard 247",
+        "key": "alexaubry___BulletinBoard",
+        "description": "Generate and Display Bottom Card Interfaces on iOS"
+      },
+      {
+        "name": "react-email-editor 160",
+        "key": "unroll-io___react-email-editor",
+        "description": "Drag-n-Drop Email Editor Component for React.js"
+      },
+      {
+        "name": "Mailspring 435",
+        "key": "Foundry376___Mailspring",
+        "description":
+          ":love_letter: A beautiful, fast and maintained fork of @Nylas Mail by one of the original authors."
+      },
+      {
+        "name": "ScalingLayout 197",
+        "key": "iammert___ScalingLayout",
+        "description":
+          "With Scaling Layout scale your layout on user interaction."
+      },
+      {
+        "name": "base 109",
+        "key": "tklx___base",
+        "description": "A super slim container image based on Debian GNU/Linux"
+      },
+      {
+        "name": "reactjs.org 103",
+        "key": "reactjs___reactjs.org",
+        "description": "The React documentation website"
+      },
+      {
+        "name": "reactos 243",
+        "key": "reactos___reactos",
+        "description": "A free Windows-compatible Operating System"
+      },
+      {
+        "name": "PathFinding 75",
+        "key": "AndyBobBean___PathFinding",
+        "description":
+          "C# Windows Forms application demonstrating several common path finding algorithms traversing a 2D maze."
+      },
+      {
+        "name": "nEXT 67",
+        "key": "nEXT-Browser___nEXT",
+        "description": "nEXT - Be Productive."
+      },
+      {
+        "name": "Tiny-Python-3.6-Notebook 62",
+        "key": "mattharrison___Tiny-Python-3.6-Notebook",
+        "description":
+          "This repository contains the text for the Tiny Python 3.6 Notebook."
+      },
+      {
+        "name": "android-job 53",
+        "key": "evernote___android-job",
+        "description": "Android library to handle jobs in the background."
+      },
+      {
+        "name": "distroless 51",
+        "key": "GoogleCloudPlatform___distroless",
+        "description": ""
+      },
+      {
+        "name": "nnvm 48",
+        "key": "dmlc___nnvm",
+        "description": ""
+      },
+      {
+        "name": "nerd-fonts 52",
+        "key": "ryanoasis___nerd-fonts",
+        "description": ""
+      },
+      {
+        "name": "edward 53",
+        "key": "blei-lab___edward",
+        "description": ""
+      },
+      {
+        "name": "codepin.io 38",
+        "key": "CodepinIO___codepin.io",
+        "description": ""
+      },
+      {
+        "name": "FiraCode 58",
+        "key": "tonsky___FiraCode",
+        "description": ""
+      },
+      {
+        "name": "Organizr 31",
+        "key": "causefx___Organizr",
+        "description": ""
+      },
+      {
+        "name": "FruityC2 31",
+        "key": "xtr4nge___FruityC2",
+        "description": ""
+      },
+      {
+        "name": "rclayout 30",
+        "key": "GcsSloop___rclayout",
+        "description": ""
+      },
+      {
+        "name": "react-slingshot 39",
+        "key": "coryhouse___react-slingshot",
+        "description": ""
+      },
+      {
+        "name": "streisand 27",
+        "key": "StreisandEffect___streisand",
+        "description": ""
+      },
+      {
+        "name": "AspNetCoreSubdomain 26",
+        "key": "mariuszkerl___AspNetCoreSubdomain",
+        "description": ""
+      },
+      {
+        "name": "UNIT 45",
+        "key": "mingyuliutw___UNIT",
+        "description": ""
+      },
+      {
+        "name": "electrino 24",
+        "key": "pojala___electrino",
+        "description": ""
+      },
+      {
+        "name": "OpenAPI-Specification 24",
+        "key": "OAI___OpenAPI-Specification",
+        "description": ""
+      },
+      {
+        "name": "vuera 42",
+        "key": "akxcv___vuera",
+        "description": ""
+      },
+      {
+        "name": "ansigenome 23",
+        "key": "nickjj___ansigenome",
+        "description": ""
+      },
+      {
+        "name": "HyperApp-Guide 23",
+        "key": "waylybaye___HyperApp-Guide",
+        "description": ""
+      },
+      {
+        "name": "conduct 22",
+        "key": "sindresorhus___conduct",
+        "description": ""
+      },
+      {
+        "name": "zoom 21",
+        "key": "cyrus-and___zoom",
+        "description": ""
+      },
+      {
+        "name": "security-txt 20",
+        "key": "EdOverflow___security-txt",
+        "description": ""
+      },
+      {
+        "name": "CsvBuilder 20",
+        "key": "nickpisacane___CsvBuilder",
+        "description": ""
+      },
+      {
+        "name": "npm-gif 49",
+        "key": "kodie___npm-gif",
+        "description": ""
+      },
+      {
+        "name": "openalpr 19",
+        "key": "openalpr___openalpr",
+        "description": ""
+      },
+      {
+        "name": "interviews 38",
+        "key": "kdn251___interviews",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "2017-10-05",
+    "key": "2017-10-05",
+    "list": [
+      {
+        "name": "url-to-pdf-api 969",
+        "key": "alvarcarto___url-to-pdf-api",
+        "description":
+          "Web page PDF rendering done right. Self-hosted service for rendering receipts, invoices, or any content."
+      },
+      {
+        "name": "colly 469",
+        "key": "asciimoo___colly",
+        "description": "Fast and Elegant Scraping Framework for Gophers"
+      },
+      {
+        "name": "subnet 312",
+        "key": "twitchyliquid64___subnet",
+        "description":
+          "Simple, auditable & elegant VPN, built with TLS mutual authentication and TUN."
+      },
+      {
+        "name": "coremltools 440",
+        "key": "apple___coremltools",
+        "description": "Converter tools for Core ML."
+      },
+      {
+        "name": "cowboy 177",
+        "key": "ninenines___cowboy",
+        "description": "Small, fast, modern HTTP server for Erlang/OTP."
+      },
+      {
+        "name": "Mind-Expanding-Books 274",
+        "key": "hackerkid___Mind-Expanding-Books",
+        "description": " :books: Books that will blow your mind "
+      },
+      {
+        "name": "teachable-machine 608",
+        "key": "googlecreativelab___teachable-machine",
+        "description":
+          " Explore how machine learning works, live in the browser. No coding required."
+      },
+      {
+        "name": "learning-react 239",
+        "key": "MoonHighway___learning-react",
+        "description":
+          "The code samples for Learning React by Alex Banks and Eve Porcello, published by O'Reilly Media"
+      },
+      {
+        "name": "microsoftmlserver-docker 98",
+        "key": "johnpaulada___microsoftmlserver-docker",
+        "description":
+          "An unofficial Microsoft Machine Learning Server Docker image."
+      },
+      {
+        "name": "public-apis 114",
+        "key": "toddmotto___public-apis",
+        "description":
+          "A collective list of public JSON APIs for use in web development."
+      },
+      {
+        "name": "browser-compat-data 74",
+        "key": "mdn___browser-compat-data",
+        "description":
+          "This repository contains compatibility data for Web technologies"
+      },
+      {
+        "name": "st.js 74",
+        "key": "SelectTransform___st.js",
+        "description": "JSON template over JSON"
+      },
+      {
+        "name": "base100 62",
+        "key": "AdamNiederer___base100",
+        "description": "base💯 - Encode your data into emoji"
+      },
+      {
+        "name": "Mailspring 178",
+        "key": "Foundry376___Mailspring",
+        "description":
+          ":love_letter: A beautiful, fast and maintained fork of @Nylas Mail by one of the original authors."
+      },
+      {
+        "name": "reactos 84",
+        "key": "reactos___reactos",
+        "description": "A free Windows-compatible Operating System"
+      },
+      {
+        "name": "one-loader 45",
+        "key": "digitalie___one-loader",
+        "description": ""
+      },
+      {
+        "name": "sticky-sidebar 91",
+        "key": "abouolia___sticky-sidebar",
+        "description": ""
+      },
+      {
+        "name": "puppeteer 102",
+        "key": "GoogleChrome___puppeteer",
+        "description": ""
+      },
+      {
+        "name": "graph_convnets_pytorch 37",
+        "key": "xbresson___graph_convnets_pytorch",
+        "description": ""
+      },
+      {
+        "name": "rasa_core 82",
+        "key": "RasaHQ___rasa_core",
+        "description": ""
+      },
+      {
+        "name": "cupy 54",
+        "key": "cupy___cupy",
+        "description": ""
+      },
+      {
+        "name": "pcap2curl 34",
+        "key": "jullrich___pcap2curl",
+        "description": ""
+      },
+      {
+        "name": "usb-canary 33",
+        "key": "errbufferoverfl___usb-canary",
+        "description": ""
+      },
+      {
+        "name": "oaex-node-liqui 33",
+        "key": "open-asset-exchange___oaex-node-liqui",
+        "description": ""
+      },
+      {
+        "name": "Rick-and-Morty-Characters 33",
+        "key": "Shmakov___Rick-and-Morty-Characters",
+        "description": ""
+      },
+      {
+        "name": "torchMoji 43",
+        "key": "huggingface___torchMoji",
+        "description": ""
+      },
+      {
+        "name": "Bulllord-Engine 31",
+        "key": "MarilynDafa___Bulllord-Engine",
+        "description": ""
+      },
+      {
+        "name": "Artificial-Intelligence-Terminology 31",
+        "key": "jiqizhixin___Artificial-Intelligence-Terminology",
+        "description": ""
+      },
+      {
+        "name": "manim 27",
+        "key": "3b1b___manim",
+        "description": ""
+      },
+      {
+        "name": "npm-gif 26",
+        "key": "kodie___npm-gif",
+        "description": ""
+      },
+      {
+        "name": "TensorFlow-Examples 57",
+        "key": "aymericdamien___TensorFlow-Examples",
+        "description": ""
+      },
+      {
+        "name": "awesome-free-images 25",
+        "key": "ronal2do___awesome-free-images",
+        "description": ""
+      },
+      {
+        "name": "pigeon 24",
+        "key": "codedge-llc___pigeon",
+        "description": ""
+      },
+      {
+        "name": "PyTorchZeroToAll 24",
+        "key": "hunkim___PyTorchZeroToAll",
+        "description": ""
+      },
+      {
+        "name": "pytorch-semantic-segmentation 35",
+        "key": "ZijunDeng___pytorch-semantic-segmentation",
+        "description": ""
+      },
+      {
+        "name": "react-16-ssr-perf 23",
+        "key": "aickin___react-16-ssr-perf",
+        "description": ""
+      },
+      {
+        "name": "haul 23",
+        "key": "callstack___haul",
+        "description": ""
+      },
+      {
+        "name": "mathc 23",
+        "key": "ferreiradaselva___mathc",
+        "description": ""
+      },
+      {
+        "name": "Vue-Mini-Social-Network 22",
+        "key": "yTakkar___Vue-Mini-Social-Network",
+        "description": ""
+      },
+      {
+        "name": "generics 22",
+        "key": "StabbyCutyou___generics",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "2017-10-04",
+    "key": "2017-10-04",
+    "list": [
+      {
+        "name": "structor 370",
+        "key": "ipselon___structor",
+        "description": "Structor - React UI Builder"
+      },
+      {
+        "name": "react-stripe-elements 214",
+        "key": "stripe___react-stripe-elements",
+        "description":
+          "React components for Stripe.js and Stripe Elements      "
+      },
+      {
+        "name": "teachable-machine 277",
+        "key": "googlecreativelab___teachable-machine",
+        "description":
+          " Explore how machine learning works, live in the browser. No coding required."
+      },
+      {
+        "name": "Mailspring 94",
+        "key": "Foundry376___Mailspring",
+        "description":
+          ":love_letter: A beautiful, fast and maintained fork of @Nylas Mail by one of the original authors."
+      },
+      {
+        "name": "skylark 266",
+        "key": "google___skylark",
+        "description":
+          "Skylark in Go: the Skylark configuration language, implemented in Go"
+      },
+      {
+        "name": "Mind-Expanding-Books 78",
+        "key": "hackerkid___Mind-Expanding-Books",
+        "description": " :books: Books that will blow your mind "
+      },
+      {
+        "name": "learning-react 73",
+        "key": "MoonHighway___learning-react",
+        "description":
+          "The code samples for Learning React by Alex Banks and Eve Porcello, published by O'Reilly Media"
+      },
+      {
+        "name": "Blockchain-stuff 68",
+        "key": "Xel___Blockchain-stuff",
+        "description": "Blockchain and Crytocurrency Resources"
+      },
+      {
+        "name": "nodejs-mobile 126",
+        "key": "janeasystems___nodejs-mobile",
+        "description": "A full-fledged Node.js runtime for Android and iOS"
+      },
+      {
+        "name": "deeplearnjs 164",
+        "key": "PAIR-code___deeplearnjs",
+        "description":
+          "Hardware-accelerated deep learning and linear algebra (NumPy) library for the web."
+      },
+      {
+        "name": "numpy 60",
+        "key": "numpy___numpy",
+        "description": "Numpy main repository"
+      },
+      {
+        "name": "kubernetes-complete-course 55",
+        "key": "jolestar___kubernetes-complete-course",
+        "description": "Kubernetes 完全教程"
+      },
+      {
+        "name": "a11y-dialog 54",
+        "key": "edenspiekermann___a11y-dialog",
+        "description":
+          "A very lightweight and flexible accessible modal dialog."
+      },
+      {
+        "name": "coremltools 52",
+        "key": "apple___coremltools",
+        "description": "Converter tools for Core ML."
+      },
+      {
+        "name": "webtorrent-element 135",
+        "key": "mikeal___webtorrent-element",
+        "description": "WebTorrent HTML element."
+      },
+      {
+        "name": "wtfjs 52",
+        "key": "denysdovhan___wtfjs",
+        "description": ""
+      },
+      {
+        "name": "statty 41",
+        "key": "vesparny___statty",
+        "description": ""
+      },
+      {
+        "name": "sticky-sidebar 37",
+        "key": "abouolia___sticky-sidebar",
+        "description": ""
+      },
+      {
+        "name": "vuera 37",
+        "key": "akxcv___vuera",
+        "description": ""
+      },
+      {
+        "name": "kbfs 37",
+        "key": "keybase___kbfs",
+        "description": ""
+      },
+      {
+        "name": "rasa_core 37",
+        "key": "RasaHQ___rasa_core",
+        "description": ""
+      },
+      {
+        "name": "micromodal 60",
+        "key": "ghosh___micromodal",
+        "description": ""
+      },
+      {
+        "name": "bubbly-bg 307",
+        "key": "tipsy___bubbly-bg",
+        "description": ""
+      },
+      {
+        "name": "real-world-ruby-apps 33",
+        "key": "jeromedalbert___real-world-ruby-apps",
+        "description": ""
+      },
+      {
+        "name": "container-ioc 32",
+        "key": "thohoh___container-ioc",
+        "description": ""
+      },
+      {
+        "name": "elements-examples 45",
+        "key": "stripe___elements-examples",
+        "description": ""
+      },
+      {
+        "name": "bitcoinbook 52",
+        "key": "bitcoinbook___bitcoinbook",
+        "description": ""
+      },
+      {
+        "name": "free-agent-sleeper 24",
+        "key": "philipfong___free-agent-sleeper",
+        "description": ""
+      },
+      {
+        "name": "chi 24",
+        "key": "go-chi___chi",
+        "description": ""
+      },
+      {
+        "name": "is 23",
+        "key": "sindresorhus___is",
+        "description": ""
+      },
+      {
+        "name": "Microcharts 50",
+        "key": "aloisdeniel___Microcharts",
+        "description": ""
+      },
+      {
+        "name": "admin-on-rest 22",
+        "key": "marmelab___admin-on-rest",
+        "description": ""
+      },
+      {
+        "name": "aws-mobile-react-sample 21",
+        "key": "awslabs___aws-mobile-react-sample",
+        "description": ""
+      },
+      {
+        "name": "cam2ip 21",
+        "key": "gen2brain___cam2ip",
+        "description": ""
+      },
+      {
+        "name": "milksnake 35",
+        "key": "getsentry___milksnake",
+        "description": ""
+      },
+      {
+        "name": "file-upload-with-preview 20",
+        "key": "promosis___file-upload-with-preview",
+        "description": ""
+      },
+      {
+        "name": "db 20",
+        "key": "siddharthkp___db",
+        "description": ""
+      },
+      {
+        "name": "fest-manager 20",
+        "key": "crux-bphc___fest-manager",
+        "description": ""
+      },
+      {
+        "name": "purrge 19",
+        "key": "cesarferreira___purrge",
+        "description": ""
+      },
+      {
+        "name": "gitflow 19",
+        "key": "nvie___gitflow",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "2017-10-03",
+    "key": "2017-10-03",
+    "list": [
+      {
+        "name": "matcha 663",
+        "key": "gomatcha___matcha",
+        "description": "Build native mobile apps in Go."
+      },
+      {
+        "name": "fn 348",
+        "key": "fnproject___fn",
+        "description":
+          "The container native, cloud agnostic serverless platform."
+      },
+      {
+        "name": "lua 294",
+        "key": "milochristiansen___lua",
+        "description": "A Lua 5.3 VM and compiler written in Go."
+      },
+      {
+        "name": "bubbly-bg 224",
+        "key": "tipsy___bubbly-bg",
+        "description":
+          "Beautiful bubbly backgrounds in less than 1kB (696 bytes gzipped)"
+      },
+      {
+        "name": "http 183",
+        "key": "swift-server___http",
+        "description":
+          "Repository for the development of cross-platform HTTP APIs"
+      },
+      {
+        "name": "gocaml 158",
+        "key": "rhysd___gocaml",
+        "description":
+          ":camel: Practical statically typed functional programming language implementation with Go and LLVM"
+      },
+      {
+        "name": "nzyme 112",
+        "key": "lennartkoopmann___nzyme",
+        "description":
+          "Nzyme collects 802.11 management frames directly from the air and sends them to a Graylog (Open Source log management) setup for WiFi IDS, monitoring, and incident response. It only needs a JVM and a WiFi adapter that supports monitor mode."
+      },
+      {
+        "name": "nematoduino 92",
+        "key": "nategri___nematoduino",
+        "description":
+          "Arduino UNO-compatible robotic simulation of the C. elegans nematode"
+      },
+      {
+        "name": "skylark 122",
+        "key": "google___skylark",
+        "description":
+          "Skylark in Go: the Skylark configuration language, implemented in Go"
+      },
+      {
+        "name": "webtorrent-element 63",
+        "key": "mikeal___webtorrent-element",
+        "description": "WebTorrent HTML element."
+      },
+      {
+        "name": "teachable-machine 59",
+        "key": "googlecreativelab___teachable-machine",
+        "description":
+          " Explore how machine learning works, live in the browser. No coding required."
+      },
+      {
+        "name": "NEAL 73",
+        "key": "uber___NEAL",
+        "description": "Automate your code reviews with custom syntactic rules"
+      },
+      {
+        "name": "reactos 55",
+        "key": "reactos___reactos",
+        "description": "A free Windows-compatible Operating System"
+      },
+      {
+        "name": "formik-persist 54",
+        "key": "jaredpalmer___formik-persist",
+        "description":
+          "💾   Persist and rehydrate a Formik form to localStorage"
+      },
+      {
+        "name": "OSCP-Survival-Guide 308",
+        "key": "frizb___OSCP-Survival-Guide",
+        "description":
+          "Kali Linux Offensive Security Certified Professional Survival Exam Guide "
+      },
+      {
+        "name": "incubator-guacamole-server 53",
+        "key": "apache___incubator-guacamole-server",
+        "description": ""
+      },
+      {
+        "name": "laravel-blade-directives 48",
+        "key": "appstract___laravel-blade-directives",
+        "description": ""
+      },
+      {
+        "name": "beautiful-docs 48",
+        "key": "PharkMillups___beautiful-docs",
+        "description": ""
+      },
+      {
+        "name": "typesync 73",
+        "key": "jeffijoe___typesync",
+        "description": ""
+      },
+      {
+        "name": "gerbil 42",
+        "key": "vyzo___gerbil",
+        "description": ""
+      },
+      {
+        "name": "nodejs-mobile 40",
+        "key": "janeasystems___nodejs-mobile",
+        "description": ""
+      },
+      {
+        "name": "ShelfView-iOS 39",
+        "key": "tdscientist___ShelfView-iOS",
+        "description": ""
+      },
+      {
+        "name": "formik 46",
+        "key": "jaredpalmer___formik",
+        "description": ""
+      },
+      {
+        "name": "limn 58",
+        "key": "christolliday___limn",
+        "description": ""
+      },
+      {
+        "name": "tech-interview-handbook 526",
+        "key": "yangshun___tech-interview-handbook",
+        "description": ""
+      },
+      {
+        "name": "ScalingLayout 153",
+        "key": "iammert___ScalingLayout",
+        "description": ""
+      },
+      {
+        "name": "web3.js 34",
+        "key": "ethereum___web3.js",
+        "description": ""
+      },
+      {
+        "name": "lighthouse 33",
+        "key": "gaasedelen___lighthouse",
+        "description": ""
+      },
+      {
+        "name": "deeplearnjs 70",
+        "key": "PAIR-code___deeplearnjs",
+        "description": ""
+      },
+      {
+        "name": "Crawler_and_Share 30",
+        "key": "f496328mm___Crawler_and_Share",
+        "description": ""
+      },
+      {
+        "name": "Python-Guide-CN 44",
+        "key": "Prodesire___Python-Guide-CN",
+        "description": ""
+      },
+      {
+        "name": "ebay-font 28",
+        "key": "eBay___ebay-font",
+        "description": ""
+      },
+      {
+        "name": "razzle 27",
+        "key": "jaredpalmer___razzle",
+        "description": ""
+      },
+      {
+        "name": "feather 26",
+        "key": "colebemis___feather",
+        "description": ""
+      },
+      {
+        "name": "cosmos 198",
+        "key": "OpenGenus___cosmos",
+        "description": ""
+      },
+      {
+        "name": "ketherhomepage 24",
+        "key": "thousandetherhomepage___ketherhomepage",
+        "description": ""
+      },
+      {
+        "name": "Microcharts 24",
+        "key": "aloisdeniel___Microcharts",
+        "description": ""
+      },
+      {
+        "name": "t1ha 23",
+        "key": "leo-yuriev___t1ha",
+        "description": ""
+      },
+      {
+        "name": "rxjs 22",
+        "key": "ReactiveX___rxjs",
+        "description": ""
+      },
+      {
+        "name": "jam-py 22",
+        "key": "jam-py___jam-py",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "2017-10-02",
+    "key": "2017-10-02",
+    "list": [
+      {
+        "name": "hackernews-react-graphql 1352",
+        "key": "clintonwoo___hackernews-react-graphql",
+        "description":
+          "Hacker News clone rewritten with universal JavaScript, using React and GraphQL."
+      },
+      {
+        "name": "fast-style-transfer-deeplearnjs 350",
+        "key": "reiinakano___fast-style-transfer-deeplearnjs",
+        "description":
+          "Demo of in-browser Fast Neural Style Transfer with Deeplearn.JS library"
+      },
+      {
+        "name": "halo 312",
+        "key": "ManrajGrover___halo",
+        "description": "💫 Beautiful terminal spinners in Python"
+      },
+      {
+        "name": "dist-prog-book 316",
+        "key": "heathermiller___dist-prog-book",
+        "description": null
+      },
+      {
+        "name": "OSCP-Survival-Guide 188",
+        "key": "frizb___OSCP-Survival-Guide",
+        "description":
+          "Kali Linux Offensive Security Certified Professional Survival Exam Guide "
+      },
+      {
+        "name": "gitsuggest 153",
+        "key": "csurfer___gitsuggest",
+        "description":
+          "A tool to suggest github repositories based on the repositories you have shown interest in."
+      },
+      {
+        "name": "cosmos 148",
+        "key": "OpenGenus___cosmos",
+        "description":
+          " [Show :heart: love by 🌟] Your personal library of every algorithm and data structure code that you will ever encounter"
+      },
+      {
+        "name": "dotfiles 89",
+        "key": "lewagon___dotfiles",
+        "description": "Default configuration for Le Wagon's students"
+      },
+      {
+        "name": "setup 86",
+        "key": "lewagon___setup",
+        "description":
+          "Setup instructions for Le Wagon's students on their first day of camp"
+      },
+      {
+        "name": "ZeroNet 86",
+        "key": "HelloZeroNet___ZeroNet",
+        "description":
+          "ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network"
+      },
+      {
+        "name": "BulletinBoard 99",
+        "key": "alexaubry___BulletinBoard",
+        "description": "Generate and Display Bottom Card Interfaces on iOS"
+      },
+      {
+        "name": "DOOM 70",
+        "key": "id-Software___DOOM",
+        "description": "DOOM Open Source Release"
+      },
+      {
+        "name": "awesome-blockchains 168",
+        "key": "openblockchains___awesome-blockchains",
+        "description":
+          "A collection about awesome blockchains - open distributed public databases w/ crypto hashes incl. git ;-).  Blockchains are the new tulips :tulip::tulip::tulip:. Distributed is the new centralized. "
+      },
+      {
+        "name": "LifetimeTracker 135",
+        "key": "krzysztofzablocki___LifetimeTracker",
+        "description": "Find retain cycles / memory leaks sooner."
+      },
+      {
+        "name": "ScalingLayout 97",
+        "key": "iammert___ScalingLayout",
+        "description":
+          "With Scaling Layout scale your layout on user interaction."
+      },
+      {
+        "name": "blockchain 182",
+        "key": "dvf___blockchain",
+        "description": ""
+      },
+      {
+        "name": "InfoKit 51",
+        "key": "nmdias___InfoKit",
+        "description": ""
+      },
+      {
+        "name": "folly 58",
+        "key": "facebook___folly",
+        "description": ""
+      },
+      {
+        "name": "Imaginary 63",
+        "key": "hyperoslo___Imaginary",
+        "description": ""
+      },
+      {
+        "name": "draggable 989",
+        "key": "Shopify___draggable",
+        "description": ""
+      },
+      {
+        "name": "seastar 48",
+        "key": "scylladb___seastar",
+        "description": ""
+      },
+      {
+        "name": "hpat 57",
+        "key": "IntelLabs___hpat",
+        "description": ""
+      },
+      {
+        "name": "react-beautiful-dnd 43",
+        "key": "atlassian___react-beautiful-dnd",
+        "description": ""
+      },
+      {
+        "name": "security-research-pocs 41",
+        "key": "google___security-research-pocs",
+        "description": ""
+      },
+      {
+        "name": "metabase 41",
+        "key": "metabase___metabase",
+        "description": ""
+      },
+      {
+        "name": "Time 55",
+        "key": "dreymonde___Time",
+        "description": ""
+      },
+      {
+        "name": "tech-interview-handbook 396",
+        "key": "yangshun___tech-interview-handbook",
+        "description": ""
+      },
+      {
+        "name": "memcache-info 38",
+        "key": "hyperia-sk___memcache-info",
+        "description": ""
+      },
+      {
+        "name": "lozad.js 49",
+        "key": "ApoorvSaxena___lozad.js",
+        "description": ""
+      },
+      {
+        "name": "awesome-styled-components 35",
+        "key": "styled-components___awesome-styled-components",
+        "description": ""
+      },
+      {
+        "name": "linux 69",
+        "key": "torvalds___linux",
+        "description": ""
+      },
+      {
+        "name": "shadow 95",
+        "key": "loopeer___shadow",
+        "description": ""
+      },
+      {
+        "name": "fn 32",
+        "key": "fnproject___fn",
+        "description": ""
+      },
+      {
+        "name": "balloon.css 32",
+        "key": "kazzkiq___balloon.css",
+        "description": ""
+      },
+      {
+        "name": "every-programmer-should-know 245",
+        "key": "mr-mig___every-programmer-should-know",
+        "description": ""
+      },
+      {
+        "name": "Fragment 38",
+        "key": "rezaali___Fragment",
+        "description": ""
+      },
+      {
+        "name": "devtools-playground 30",
+        "key": "asfktz___devtools-playground",
+        "description": ""
+      },
+      {
+        "name": "free-programming-books 119",
+        "key": "EbookFoundation___free-programming-books",
+        "description": ""
+      },
+      {
+        "name": "puppeteer 46",
+        "key": "GoogleChrome___puppeteer",
+        "description": ""
+      },
+      {
+        "name": "zircon 29",
+        "key": "Hexworks___zircon",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "2017-10-01",
+    "key": "2017-10-01",
+    "list": [
+      {
+        "name": "modern-js-cheatsheet 1353",
+        "key": "mbeaudru___modern-js-cheatsheet",
+        "description":
+          "Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects."
+      },
+      {
+        "name": "atmanos 171",
+        "key": "atmanos___atmanos",
+        "description":
+          "Build Go programs that run directly on the Xen hypervisor"
+      },
+      {
+        "name": "darwin-xnu 1674",
+        "key": "apple___darwin-xnu",
+        "description": "The Darwin Kernel (mirror)"
+      },
+      {
+        "name": "ML-Tutorial-Experiment 81",
+        "key": "jiqizhixin___ML-Tutorial-Experiment",
+        "description":
+          "Coding the Machine Learning Tutorial for Learning to Learn"
+      },
+      {
+        "name": "blockchain 97",
+        "key": "dvf___blockchain",
+        "description": "A simple Blockchain in Python"
+      },
+      {
+        "name": "PrefsMate 44",
+        "key": "caiyue1993___PrefsMate",
+        "description": "🐣  Elegant UITableView generator for Swift."
+      },
+      {
+        "name": "kemono_puyo 43",
+        "key": "icoxfog417___kemono_puyo",
+        "description": "Take kemono pictures and lines up 3, then tanoshii"
+      },
+      {
+        "name": "hackernews-react-graphql 42",
+        "key": "clintonwoo___hackernews-react-graphql",
+        "description":
+          "Hacker News clone rewritten with universal JavaScript, using React and GraphQL."
+      },
+      {
+        "name": "PySyft 85",
+        "key": "OpenMined___PySyft",
+        "description": "Encrypted Deep Learning Library"
+      },
+      {
+        "name": "milewski-ctfp-pdf 383",
+        "key": "hmemcpy___milewski-ctfp-pdf",
+        "description":
+          "Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source"
+      },
+      {
+        "name": "wtfpython 55",
+        "key": "satwikkansal___wtfpython",
+        "description":
+          "A collection of interesting, subtle, and tricky Python snippets."
+      },
+      {
+        "name": "git-appraise 46",
+        "key": "google___git-appraise",
+        "description": "Distributed code review system for Git repos"
+      },
+      {
+        "name": "ScalingLayout 32",
+        "key": "iammert___ScalingLayout",
+        "description":
+          "With Scaling Layout scale your layout on user interaction."
+      },
+      {
+        "name": "Lepton 30",
+        "key": "hackjutsu___Lepton",
+        "description":
+          "💻    Democratizing Code Snippets Management (macOS/Win/Linux)"
+      },
+      {
+        "name": "gosl 42",
+        "key": "cpmech___gosl",
+        "description":
+          "Go scientific library for linear algebra, fast Fourier transforms, special functions, Bessel, elliptic, orthogonal polys, geometry, NURBS, numerical quadrature, 3D transfinite interpolation, random numbers, Mersenne twister, probability distributions, optimisation, graph, plotting, visualisation, tensors, eigenvalues, differential equations, etc."
+      },
+      {
+        "name": "lux 29",
+        "key": "LuxLang___lux",
+        "description": ""
+      },
+      {
+        "name": "angr 28",
+        "key": "angr___angr",
+        "description": ""
+      },
+      {
+        "name": "awesome-blockchains 74",
+        "key": "openblockchains___awesome-blockchains",
+        "description": ""
+      },
+      {
+        "name": "hacktoberfest-checker 25",
+        "key": "jenkoian___hacktoberfest-checker",
+        "description": ""
+      },
+      {
+        "name": "cosmos 25",
+        "key": "OpenGenus___cosmos",
+        "description": ""
+      },
+      {
+        "name": "gulp-wordpress-boilerplate 24",
+        "key": "luangjokaj___gulp-wordpress-boilerplate",
+        "description": ""
+      },
+      {
+        "name": "vue-googlemaps 24",
+        "key": "Akryum___vue-googlemaps",
+        "description": ""
+      },
+      {
+        "name": "downshift 23",
+        "key": "paypal___downshift",
+        "description": ""
+      },
+      {
+        "name": "swift 65",
+        "key": "apple___swift",
+        "description": ""
+      },
+      {
+        "name": "Algo_Ds 22",
+        "key": "srbcheema1___Algo_Ds",
+        "description": ""
+      },
+      {
+        "name": "jigsaw-payment 33",
+        "key": "jigsaw-projects___jigsaw-payment",
+        "description": ""
+      },
+      {
+        "name": "gitsuggest 20",
+        "key": "csurfer___gitsuggest",
+        "description": ""
+      },
+      {
+        "name": "SniffAir 20",
+        "key": "Tylous___SniffAir",
+        "description": ""
+      },
+      {
+        "name": "Yuki-Chan-The-Auto-Pentest 20",
+        "key": "Yukinoshita47___Yuki-Chan-The-Auto-Pentest",
+        "description": ""
+      },
+      {
+        "name": "Hello_world 20",
+        "key": "srbcheema1___Hello_world",
+        "description": ""
+      },
+      {
+        "name": "Wappalyzer 19",
+        "key": "AliasIO___Wappalyzer",
+        "description": ""
+      },
+      {
+        "name": "Checkpoint 19",
+        "key": "BernardoGiordano___Checkpoint",
+        "description": ""
+      },
+      {
+        "name": "xnu 43",
+        "key": "opensource-apple___xnu",
+        "description": ""
+      },
+      {
+        "name": "morse 27",
+        "key": "nomblr___morse",
+        "description": ""
+      },
+      {
+        "name": "sortpool2d 18",
+        "key": "singlasahil14___sortpool2d",
+        "description": ""
+      },
+      {
+        "name": "flutter 43",
+        "key": "flutter___flutter",
+        "description": ""
+      },
+      {
+        "name": "RetroPie-Setup 17",
+        "key": "RetroPie___RetroPie-Setup",
+        "description": ""
+      },
+      {
+        "name": "Aerial 27",
+        "key": "JohnCoates___Aerial",
+        "description": ""
+      },
+      {
+        "name": "falcor 25",
+        "key": "Netflix___falcor",
+        "description": ""
+      },
+      {
+        "name": "dnsmap.sh 16",
+        "key": "bindh3x___dnsmap.sh",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "2017-09-30",
+    "key": "2017-09-30",
+    "list": [
+      {
+        "name": "darwin-xnu 1032",
+        "key": "apple___darwin-xnu",
+        "description": "The Darwin Kernel (mirror)"
+      },
+      {
+        "name": "milewski-ctfp-pdf 281",
+        "key": "hmemcpy___milewski-ctfp-pdf",
+        "description":
+          "Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source"
+      },
+      {
+        "name": "style2paints 488",
+        "key": "lllyasviel___style2paints",
+        "description": "sketch + style = paints :art:"
+      },
+      {
+        "name": "weex-ui 72",
+        "key": "alibaba___weex-ui",
+        "description":
+          "🏄  A rich interaction, lightweight, high performance UI library based on Weex."
+      },
+      {
+        "name": "QueryList 112",
+        "key": "jae-jae___QueryList",
+        "description":
+          ":spider: Simple, elegant, extensible PHP Web Scraper (crawler/spider),Use the css3 dom selector,Based on phpQuery!  简洁、优雅、可扩展的PHP采集工具(爬虫)，基于phpQuery。"
+      },
+      {
+        "name": "react-dnd 52",
+        "key": "react-dnd___react-dnd",
+        "description": "Drag and Drop for React"
+      },
+      {
+        "name": "Fixhub 51",
+        "key": "Fixhub___Fixhub",
+        "description":
+          "A free and open source web deployment system based on Laravel 5.5"
+      },
+      {
+        "name": "zhihu-rxjava-meetup 46",
+        "key": "zhihu___zhihu-rxjava-meetup",
+        "description": "知乎 x RxJava Meetup"
+      },
+      {
+        "name": "Location-Cleaner 46",
+        "key": "JunyuKuang___Location-Cleaner",
+        "description":
+          "An iOS app to clear location tags from all of photos and videos in your iOS Photo Library."
+      },
+      {
+        "name": "Egametang 45",
+        "key": "egametang___Egametang",
+        "description": "Unity3D Client And C# Server Framework"
+      },
+      {
+        "name": "awesome-blockchains 39",
+        "key": "openblockchains___awesome-blockchains",
+        "description":
+          "A collection about awesome blockchains - open distributed public databases w/ crypto hashes incl. git ;-).  Blockchains are the new tulips :tulip::tulip::tulip:. Distributed is the new centralized. "
+      },
+      {
+        "name": "Python-Guide-CN 76",
+        "key": "Prodesire___Python-Guide-CN",
+        "description": "Python最佳实践指南"
+      },
+      {
+        "name": "PySyft 34",
+        "key": "OpenMined___PySyft",
+        "description": "Encrypted Deep Learning Library"
+      },
+      {
+        "name": "postman 34",
+        "key": "rgamba___postman",
+        "description": "Reverse proxy for async microservice communication"
+      },
+      {
+        "name": "minimap 51",
+        "key": "Ivoah___minimap",
+        "description": "Generate minimaps of your code"
+      },
+      {
+        "name": "attifyos 28",
+        "key": "adi0x90___attifyos",
+        "description": ""
+      },
+      {
+        "name": "metaweather-cli 28",
+        "key": "ismaelgt___metaweather-cli",
+        "description": ""
+      },
+      {
+        "name": "editor 27",
+        "key": "ory___editor",
+        "description": ""
+      },
+      {
+        "name": "dotweb 53",
+        "key": "devfeel___dotweb",
+        "description": ""
+      },
+      {
+        "name": "blessed-contrib 26",
+        "key": "yaronn___blessed-contrib",
+        "description": ""
+      },
+      {
+        "name": "aquatone 26",
+        "key": "michenriksen___aquatone",
+        "description": ""
+      },
+      {
+        "name": "swift 37",
+        "key": "apple___swift",
+        "description": ""
+      },
+      {
+        "name": "sphereface 24",
+        "key": "wy1iu___sphereface",
+        "description": ""
+      },
+      {
+        "name": "neditor 23",
+        "key": "notadd___neditor",
+        "description": ""
+      },
+      {
+        "name": "xnu 22",
+        "key": "opensource-apple___xnu",
+        "description": ""
+      },
+      {
+        "name": "blockchain 22",
+        "key": "dvf___blockchain",
+        "description": ""
+      },
+      {
+        "name": "mdui 22",
+        "key": "zdhxiong___mdui",
+        "description": ""
+      },
+      {
+        "name": "kubernetes-complete-course 22",
+        "key": "jolestar___kubernetes-complete-course",
+        "description": ""
+      },
+      {
+        "name": "transwarp 21",
+        "key": "bloomen___transwarp",
+        "description": ""
+      },
+      {
+        "name": "pydata-book 21",
+        "key": "wesm___pydata-book",
+        "description": ""
+      },
+      {
+        "name": "static-regexp 21",
+        "key": "hanickadot___static-regexp",
+        "description": ""
+      },
+      {
+        "name": "docker-why 20",
+        "key": "jennybc___docker-why",
+        "description": ""
+      },
+      {
+        "name": "deepschool.io 20",
+        "key": "sachinruk___deepschool.io",
+        "description": ""
+      },
+      {
+        "name": "vux 19",
+        "key": "airyland___vux",
+        "description": ""
+      },
+      {
+        "name": "go-packages 19",
+        "key": "radovskyb___go-packages",
+        "description": ""
+      },
+      {
+        "name": "statty 19",
+        "key": "vesparny___statty",
+        "description": ""
+      },
+      {
+        "name": "gossm 19",
+        "key": "ssimunic___gossm",
+        "description": ""
+      },
+      {
+        "name": "Flora 18",
+        "key": "ghnor___Flora",
+        "description": ""
+      },
+      {
+        "name": "egg 18",
+        "key": "eggjs___egg",
+        "description": ""
+      },
+      {
+        "name": "awesome-docker 18",
+        "key": "veggiemonk___awesome-docker",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "2017-09-29",
+    "key": "2017-09-29",
+    "list": [
+      {
+        "name": "draggable 1676",
+        "key": "Shopify___draggable",
+        "description":
+          "The JavaScript Drag & Drop library your grandparents warned you about."
+      },
+      {
+        "name": "micro 880",
+        "key": "zyedidia___micro",
+        "description": "A modern and intuitive terminal-based text editor"
+      },
+      {
+        "name": "Biny 423",
+        "key": "Tencent___Biny",
+        "description":
+          "Biny is a tiny, high-performance PHP framework for web applications"
+      },
+      {
+        "name": "shadow 163",
+        "key": "loopeer___shadow",
+        "description": "Android custom shadow view, can replace your CardView"
+      },
+      {
+        "name": "wxapp-market 149",
+        "key": "o2team___wxapp-market",
+        "description": " 小程序营销组件，Marketing components for WeChatApp"
+      },
+      {
+        "name": "essential-image-optimization 122",
+        "key": "GoogleChrome___essential-image-optimization",
+        "description": "Essential Image Optimization - an eBook"
+      },
+      {
+        "name": "EFIgy 116",
+        "key": "duo-labs___EFIgy",
+        "description":
+          "A small client application that uses the Duo Labs EFIgy API to inform you about the state of your Macs EFI firmware"
+      },
+      {
+        "name": "hivemind 155",
+        "key": "littlstar___hivemind",
+        "description":
+          "For creating distributed jobs using AWS Lambda functions"
+      },
+      {
+        "name": "vue-a11y-calendar 97",
+        "key": "IBM___vue-a11y-calendar",
+        "description": "Accessible, internationalized Vue calendar"
+      },
+      {
+        "name": "pytorch_exercises 93",
+        "key": "Kyubyong___pytorch_exercises",
+        "description": null
+      },
+      {
+        "name": "DDComponentForAndroid 114",
+        "key": "luojilab___DDComponentForAndroid",
+        "description":
+          "一套完整有效的android组件化方案，支持组件的单独调试、集成调试、组件交互、UI跳转、动态加载卸载、组件完全隔离等功能"
+      },
+      {
+        "name": "hang 85",
+        "key": "nathan-osman___hang",
+        "description":
+          "Extremely simple Linux application that hangs until a signal is received."
+      },
+      {
+        "name": "typescript-styled-plugin 77",
+        "key": "Microsoft___typescript-styled-plugin",
+        "description":
+          "TypeScript server plugin that adds intellisense to styled component css strings"
+      },
+      {
+        "name": "php-spx 71",
+        "key": "NoiseByNorthwest___php-spx",
+        "description":
+          "A simple & straight-to-the-point PHP profiling extension"
+      },
+      {
+        "name": "springboot-learning-example 88",
+        "key": "JeffLi1993___springboot-learning-example",
+        "description": "spring boot 实践学习案例，是 spring boot 初学者及核心技术巩固的最佳实践。"
+      },
+      {
+        "name": "java-staticizer 65",
+        "key": "cpthack___java-staticizer",
+        "description": ""
+      },
+      {
+        "name": "java-rate-limiter 64",
+        "key": "cpthack___java-rate-limiter",
+        "description": ""
+      },
+      {
+        "name": "redis-client 63",
+        "key": "cpthack___redis-client",
+        "description": ""
+      },
+      {
+        "name": "JFinal-Event 62",
+        "key": "cpthack___JFinal-Event",
+        "description": ""
+      },
+      {
+        "name": "vue-test-utils 61",
+        "key": "vuejs___vue-test-utils",
+        "description": ""
+      },
+      {
+        "name": "NationalGeographic 57",
+        "key": "wheat7___NationalGeographic",
+        "description": ""
+      },
+      {
+        "name": "axios 57",
+        "key": "axios___axios",
+        "description": ""
+      },
+      {
+        "name": "gatsby 83",
+        "key": "gatsbyjs___gatsby",
+        "description": ""
+      },
+      {
+        "name": "ehcache-client 53",
+        "key": "cpthack___ehcache-client",
+        "description": ""
+      },
+      {
+        "name": "standard-demo 53",
+        "key": "standard___standard-demo",
+        "description": ""
+      },
+      {
+        "name": "RxWebSocket 50",
+        "key": "dhhAndroid___RxWebSocket",
+        "description": ""
+      },
+      {
+        "name": "fetch 68",
+        "key": "github___fetch",
+        "description": ""
+      },
+      {
+        "name": "Reactant 47",
+        "key": "Brightify___Reactant",
+        "description": ""
+      },
+      {
+        "name": "tabris-js 94",
+        "key": "eclipsesource___tabris-js",
+        "description": ""
+      },
+      {
+        "name": "cherow 77",
+        "key": "cherow___cherow",
+        "description": ""
+      },
+      {
+        "name": "ansible-interactive-tutorial 44",
+        "key": "turkenh___ansible-interactive-tutorial",
+        "description": ""
+      },
+      {
+        "name": "lile 64",
+        "key": "lileio___lile",
+        "description": ""
+      },
+      {
+        "name": "nideshop 43",
+        "key": "tumobi___nideshop",
+        "description": ""
+      },
+      {
+        "name": "Debloat-Windows-10 42",
+        "key": "W4RH4WK___Debloat-Windows-10",
+        "description": ""
+      },
+      {
+        "name": "css-loaders 39",
+        "key": "lukehaas___css-loaders",
+        "description": ""
+      },
+      {
+        "name": "Three360panorama 38",
+        "key": "CN-ZPH___Three360panorama",
+        "description": ""
+      },
+      {
+        "name": "bytom 37",
+        "key": "Bytom___bytom",
+        "description": ""
+      },
+      {
+        "name": "caddy-docker 37",
+        "key": "nathan-osman___caddy-docker",
+        "description": ""
+      },
+      {
+        "name": "Sublist3r 35",
+        "key": "Plazmaz___Sublist3r",
+        "description": ""
+      },
+      {
+        "name": "rnnoise 35",
+        "key": "xiph___rnnoise",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "2017-09-28",
+    "key": "2017-09-28",
+    "list": [
+      {
+        "name": "ambient-shipping 236",
+        "key": "marcdacosta___ambient-shipping",
+        "description":
+          "This repo contains utilities for capturing AIS messages and joining them with shipping records."
+      },
+      {
+        "name": "Marketing-for-Engineers 393",
+        "key": "LisaDziuba___Marketing-for-Engineers",
+        "description":
+          "A curated collection of marketing articles & tools to grow your product. "
+      },
+      {
+        "name": "micro 138",
+        "key": "zyedidia___micro",
+        "description": "A modern and intuitive terminal-based text editor"
+      },
+      {
+        "name": "matcha 222",
+        "key": "gomatcha___matcha",
+        "description": "Build native mobile apps in Go."
+      },
+      {
+        "name": "gophersat 131",
+        "key": "crillab___gophersat",
+        "description": "gophersat, a SAT solver in Go"
+      },
+      {
+        "name": "draggable 123",
+        "key": "Shopify___draggable",
+        "description":
+          "The JavaScript Drag & Drop library your grandparents warned you about."
+      },
+      {
+        "name": "sheet 121",
+        "key": "xem___sheet",
+        "description": "a tiny Excel clone"
+      },
+      {
+        "name": "Biny 113",
+        "key": "Tencent___Biny",
+        "description":
+          "Biny is a tiny, high-performance PHP framework for web applications"
+      },
+      {
+        "name": "styled-system 113",
+        "key": "jxnblk___styled-system",
+        "description":
+          "Design system utilities for styled-components and other css-in-js libraries"
+      },
+      {
+        "name": "BaseRecyclerViewAdapterHelper 148",
+        "key": "CymChad___BaseRecyclerViewAdapterHelper",
+        "description": "BRVAH:Powerful and flexible RecyclerAdapter"
+      },
+      {
+        "name": "detect.location 408",
+        "key": "KrauseFx___detect.location",
+        "description":
+          "An easy way to access the user's iOS location data without actually having access"
+      },
+      {
+        "name": "CppCon2017 99",
+        "key": "CppCon___CppCon2017",
+        "description": "Slides and other materials from CppCon 2017"
+      },
+      {
+        "name": "Alibaba-Java-Coding-Guidelines 89",
+        "key": "alibaba___Alibaba-Java-Coding-Guidelines",
+        "description": "Gitbook for AJCG"
+      },
+      {
+        "name": "wallaroo 163",
+        "key": "WallarooLabs___wallaroo",
+        "description": "Ultrafast and elastic data processing"
+      },
+      {
+        "name": "Nuitka 63",
+        "key": "kayhayen___Nuitka",
+        "description": "Official mirror of Nuitka as from http://nuitka.net"
+      },
+      {
+        "name": "vant 235",
+        "key": "youzan___vant",
+        "description": ""
+      },
+      {
+        "name": "terminal-kit 110",
+        "key": "cronvel___terminal-kit",
+        "description": ""
+      },
+      {
+        "name": "GUI-YouGet 54",
+        "key": "ingbyr___GUI-YouGet",
+        "description": ""
+      },
+      {
+        "name": "centraldogma 51",
+        "key": "line___centraldogma",
+        "description": ""
+      },
+      {
+        "name": "React-Express-Blog-Demo 49",
+        "key": "Nealyang___React-Express-Blog-Demo",
+        "description": ""
+      },
+      {
+        "name": "viabtc_exchange_server 209",
+        "key": "viabtc___viabtc_exchange_server",
+        "description": ""
+      },
+      {
+        "name": "iina 68",
+        "key": "lhc70000___iina",
+        "description": ""
+      },
+      {
+        "name": "react-intersection-observer 43",
+        "key": "researchgate___react-intersection-observer",
+        "description": ""
+      },
+      {
+        "name": "segmentation 43",
+        "key": "fregu856___segmentation",
+        "description": ""
+      },
+      {
+        "name": "ellie 43",
+        "key": "lukewestby___ellie",
+        "description": ""
+      },
+      {
+        "name": "size-limit 38",
+        "key": "ai___size-limit",
+        "description": ""
+      },
+      {
+        "name": "Useful_Websites_For_Pentester 38",
+        "key": "HSIS007___Useful_Websites_For_Pentester",
+        "description": ""
+      },
+      {
+        "name": "happylifeplat-tcc 37",
+        "key": "yu199195___happylifeplat-tcc",
+        "description": ""
+      },
+      {
+        "name": "tabris-js 36",
+        "key": "eclipsesource___tabris-js",
+        "description": ""
+      },
+      {
+        "name": "npm-gif 36",
+        "key": "kodie___npm-gif",
+        "description": ""
+      },
+      {
+        "name": "QuickLook 36",
+        "key": "xupefei___QuickLook",
+        "description": ""
+      },
+      {
+        "name": "first-contributions 35",
+        "key": "Roshanjossey___first-contributions",
+        "description": ""
+      },
+      {
+        "name": "angel 32",
+        "key": "Tencent___angel",
+        "description": ""
+      },
+      {
+        "name": "elm-grove 32",
+        "key": "panosoft___elm-grove",
+        "description": ""
+      },
+      {
+        "name": "coreclr 114",
+        "key": "dotnet___coreclr",
+        "description": ""
+      },
+      {
+        "name": "pySecurity 31",
+        "key": "smartFlash___pySecurity",
+        "description": ""
+      },
+      {
+        "name": "closure-compiler-handbook 30",
+        "key": "roman01la___closure-compiler-handbook",
+        "description": ""
+      },
+      {
+        "name": "pullkee 29",
+        "key": "kirillrogovoy___pullkee",
+        "description": ""
+      },
+      {
+        "name": "gnirehtet 43",
+        "key": "Genymobile___gnirehtet",
+        "description": ""
+      },
+      {
+        "name": "hivemind 28",
+        "key": "littlstar___hivemind",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "2017-09-27",
+    "key": "2017-09-27",
+    "list": [
+      {
+        "name": "jstraining 969",
+        "key": "ruanyf___jstraining",
+        "description": "全栈工程师培训材料"
+      },
+      {
+        "name": "vespa 622",
+        "key": "vespa-engine___vespa",
+        "description": "Vespa - the open big data serving engine"
+      },
+      {
+        "name": "ieaseMusic 483",
+        "key": "trazyn___ieaseMusic",
+        "description": "这应该是最好的网易云音乐播放器了，没有之一，如果有请打醒  :metal: "
+      },
+      {
+        "name": "graphql-playground 273",
+        "key": "graphcool___graphql-playground",
+        "description":
+          "🎮  GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration)"
+      },
+      {
+        "name": "abseil-cpp 1014",
+        "key": "abseil___abseil-cpp",
+        "description": "Abseil Common Libraries (C++)"
+      },
+      {
+        "name": "Utf8Json 209",
+        "key": "neuecc___Utf8Json",
+        "description":
+          "Definitely Fastest and Zero Allocation JSON Serializer for C#(NET, .NET Core, Unity, Xamarin)."
+      },
+      {
+        "name": "detect.location 183",
+        "key": "KrauseFx___detect.location",
+        "description":
+          "An easy way to access the user's iOS location data without actually having access"
+      },
+      {
+        "name": "Making-a-custom-React-renderer 212",
+        "key": "nitin42___Making-a-custom-React-renderer",
+        "description": "Tutorial on how to make a custom React renderer"
+      },
+      {
+        "name": "viabtc_exchange_server 125",
+        "key": "viabtc___viabtc_exchange_server",
+        "description":
+          "A trading engine with high-speed performance and real-time notification"
+      },
+      {
+        "name": "vant 122",
+        "key": "youzan___vant",
+        "description": "A Vue.js 2.0 Mobile UI at YouZan"
+      },
+      {
+        "name": "Marketing-for-Engineers 108",
+        "key": "LisaDziuba___Marketing-for-Engineers",
+        "description":
+          "A curated collection of marketing articles & tools to grow your product. "
+      },
+      {
+        "name": "style2paints 253",
+        "key": "lllyasviel___style2paints",
+        "description": "sketch + style = paints :art:"
+      },
+      {
+        "name": "NeteaseCloudMusicApi 98",
+        "key": "Binaryify___NeteaseCloudMusicApi",
+        "description": "网易云音乐nodejs api"
+      },
+      {
+        "name": "superFileView 78",
+        "key": "ZhongXiaoHong___superFileView",
+        "description": "基于腾讯浏览服务Tbs,使用X5Webkit内核,实现文件的展示功能，支持多种文件格式"
+      },
+      {
+        "name": "streisand 90",
+        "key": "jlund___streisand",
+        "description":
+          "Streisand sets up a new server running L2TP/IPsec, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, a Tor bridge, and WireGuard. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists."
+      },
+      {
+        "name": "Polly 69",
+        "key": "App-vNext___Polly",
+        "description": ""
+      },
+      {
+        "name": "coreclr 68",
+        "key": "dotnet___coreclr",
+        "description": ""
+      },
+      {
+        "name": "moviecatcher 63",
+        "key": "EvilCult___moviecatcher",
+        "description": ""
+      },
+      {
+        "name": "envoy 62",
+        "key": "envoyproxy___envoy",
+        "description": ""
+      },
+      {
+        "name": "prose 61",
+        "key": "jdkato___prose",
+        "description": ""
+      },
+      {
+        "name": "NewGank 60",
+        "key": "yangxiaobinhaoshuai___NewGank",
+        "description": ""
+      },
+      {
+        "name": "abseil-py 87",
+        "key": "abseil___abseil-py",
+        "description": ""
+      },
+      {
+        "name": "orbitprofiler 78",
+        "key": "pierricgimmig___orbitprofiler",
+        "description": ""
+      },
+      {
+        "name": "js--interview-questions 50",
+        "key": "vvscode___js--interview-questions",
+        "description": ""
+      },
+      {
+        "name": "basically-fullstack-graphql 49",
+        "key": "TejasQ___basically-fullstack-graphql",
+        "description": ""
+      },
+      {
+        "name": "Croller 48",
+        "key": "harjot-oberai___Croller",
+        "description": ""
+      },
+      {
+        "name": "wallaroo 48",
+        "key": "WallarooLabs___wallaroo",
+        "description": ""
+      },
+      {
+        "name": "matcha 46",
+        "key": "gomatcha___matcha",
+        "description": ""
+      },
+      {
+        "name": "imgproxy 165",
+        "key": "DarthSim___imgproxy",
+        "description": ""
+      },
+      {
+        "name": "carbon 295",
+        "key": "dawnlabs___carbon",
+        "description": ""
+      },
+      {
+        "name": "SigThief 66",
+        "key": "secretsquirrel___SigThief",
+        "description": ""
+      },
+      {
+        "name": "nodejs-in-brazil 39",
+        "key": "woliveiras___nodejs-in-brazil",
+        "description": ""
+      },
+      {
+        "name": "MessagePack-CSharp 39",
+        "key": "neuecc___MessagePack-CSharp",
+        "description": ""
+      },
+      {
+        "name": "terminal-kit 38",
+        "key": "cronvel___terminal-kit",
+        "description": ""
+      },
+      {
+        "name": "Awesome-MitM 38",
+        "key": "Chan9390___Awesome-MitM",
+        "description": ""
+      },
+      {
+        "name": "sqip 38",
+        "key": "technopagan___sqip",
+        "description": ""
+      },
+      {
+        "name": "ButtonProgressBar-iOS 55",
+        "key": "thePsguy___ButtonProgressBar-iOS",
+        "description": ""
+      },
+      {
+        "name": "tikv 36",
+        "key": "pingcap___tikv",
+        "description": ""
+      },
+      {
+        "name": "bugbounty-cheatsheet 36",
+        "key": "EdOverflow___bugbounty-cheatsheet",
+        "description": ""
+      },
+      {
+        "name": "pipenv 80",
+        "key": "kennethreitz___pipenv",
+        "description": ""
+      }
+    ]
+  }
+]

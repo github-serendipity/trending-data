@@ -1,0 +1,63 @@
+# Javascript Node CircleCI 2.0 configuration file
+#
+# Check https://circleci.com/docs/2.0/language-javascript/ for more details
+#
+
+workflows:
+  version: 2
+  commit:
+    jobs:
+      - build
+  nightly:
+    triggers:
+      - schedule:
+          cron: "0 0 * * *"
+          filters:
+            branches:
+              only:
+                - build
+    jobs:
+      - build
+
+jobs:
+  build:
+    docker:
+      # specify the version you desire here
+      - image: circleci/node:8.5
+
+      # Specify service dependencies here if necessary
+      # CircleCI maintains a library of pre-built images
+      # documented at https://circleci.com/docs/2.0/circleci-images/
+      # - image: circleci/mongo:3.4.4
+
+    working_directory: ~/repo
+
+    branches:
+      only:
+        - build
+
+    steps:
+      - checkout
+
+      # Download and cache dependencies
+      - restore_cache:
+          keys:
+          - v1-dependencies-{{ checksum "package.json" }}
+          # fallback to using the latest cache if no exact match is found
+          - v1-dependencies-
+
+      - run: cd ~/repo && npm install
+
+      - save_cache:
+          paths:
+            - node_modules
+          key: v1-dependencies-{{ checksum "package.json" }}
+
+      - add_ssh_keys:
+          fingerprints:
+            - "6a:a6:ac:e8:9e:ee:7d:ef:18:92:94:0b:b0:2c:34:82"
+
+      # run tests!
+      - run: cd ~/repo && node import_topics_daystrending.js
+      - run: cd ~/repo && chmod +x ./push-release.sh
+      - run: cd ~/repo && sh ./push-release.sh
